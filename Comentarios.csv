@@ -1,0 +1,713 @@
+comment_id,Texto,Sentiment,Hashtag_1,Hashtag_2,Retweets,Likes,User_id,Comment_Date,Day_Time
+1,Enjoying a beautiful day at the park!,Positive,#Nature,#Park,15,30,0,15-01-23,12:30:00
+2,Traffic was terrible this morning.,Negative,#Traffic,#Morning,5,10,1,15-01-23,08:45:00
+3,Just finished an amazing workout!,Positive,#Fitness,#Workout,20,40,2,15-01-23,15:45:00
+4,Excited about the upcoming weekend getaway!,Positive,#Travel,#Adventure,8,15,3,15-01-23,18:20:00
+5,Trying out a new recipe for dinner tonight.,Neutral,#Cooking,#Food,12,25,4,15-01-23,19:55:00
+6,Feeling grateful for the little things in life.,Positive,#Gratitude,#PositiveVibes,25,50,5,16-01-23,09:10:00
+7,Rainy days call for cozy blankets and hot cocoa.,Positive,#RainyDays,#Cozy,10,20,6,16-01-23,14:45:00
+8,The new movie release is a must-watch!,Positive,#MovieNight,#MustWatch,15,30,7,16-01-23,19:30:00
+9,Political discussions heating up on the timeline.,Negative,#Politics,#Debate,30,60,8,17-01-23,08:00:00
+10,Missing summer vibes and beach days.,Neutral,#Summer,#BeachDays,18,35,9,17-01-23,12:20:00
+11,Just published a new blog post. Check it out!,Positive,#Blogging,#NewPost,22,45,10,17-01-23,15:15:00
+12,Feeling a bit under the weather today.,Negative,#SickDay,#Health,7,15,11,18-01-23,10:30:00
+13,Exploring the city's hidden gems.,Positive,#CityExplore,#HiddenGems,12,25,12,18-01-23,14:50:00
+14,"New year, new fitness goals!",Positive,#NewYear,#FitnessGoals,28,55,13,18-01-23,18:00:00
+15,Technology is changing the way we live.,Neutral,#Tech,#Innovation,15,30,14,19-01-23,09:45:00
+16,Reflecting on the past and looking ahead.,Positive,#Reflection,#Future,20,40,15,19-01-23,13:20:00
+17,Just adopted a cute furry friend!,Positive,#PetAdoption,#FurryFriend,15,30,16,19-01-23,17:10:00
+18,Late-night gaming session with friends.,Positive,#Gaming,#LateNight,18,35,17,20-01-23,00:05:00
+19,Attending a virtual conference on AI.,Neutral,#AI,#TechConference,25,50,18,20-01-23,11:30:00
+20,Winter blues got me feeling low.,Negative,#WinterBlues,#Mood,8,15,19,20-01-23,15:15:00
+21,Sipping coffee and enjoying a good book.,Positive,#Reading,#CoffeeTime,22,45,20,21-01-23,08:40:00
+22,Exploring the world of virtual reality.,Positive,#VR,#VirtualReality,15,30,21,21-01-23,13:20:00
+23,Productive day ticking off my to-do list.,Positive,#Productivity,#WorkFromHome,30,60,22,21-01-23,16:45:00
+24,Just finished a challenging workout routine.,Positive,#Fitness,#ChallengeAccepted,20,40,23,22-01-23,09:15:00
+25,Celebrating a milestone at work!,Positive,#Career,#Milestone,12,25,24,22-01-23,14:30:00
+26,Sunday brunch with friends.,Positive,#Brunch,#Friends,15,30,25,22-01-23,12:00:00
+27,Learning a new language for personal growth.,Positive,#LanguageLearning,#PersonalGrowth,25,50,26,23-01-23,16:20:00
+28,Quiet evening with a good book.,Positive,#Reading,#QuietTime,15,30,27,23-01-23,19:45:00
+29,Reflecting on the importance of mental health.,Positive,#MentalHealth,#SelfCare,22,45,28,24-01-23,11:30:00
+30,New painting in progress!,Positive,#Art,#PaintingInProgress,12,25,29,24-01-23,15:00:00
+31,Weekend road trip to explore scenic views.,Positive,#RoadTrip,#ScenicViews,18,35,30,24-01-23,17:30:00
+32,Enjoying a cup of tea and watching the sunset.,Positive,#TeaTime,#Sunset,15,30,31,25-01-23,18:00:00
+33,Coding a new project with enthusiasm.,Positive,#Coding,#Enthusiasm,30,60,32,25-01-23,13:15:00
+34,Feeling inspired after attending a workshop.,Positive,#Inspiration,#Workshop,25,50,33,26-01-23,09:45:00
+35,Winter sports day at the local park.,Positive,#WinterSports,#Fun,15,30,34,26-01-23,14:20:00
+36,Quality time with family this weekend.,Positive,#FamilyTime,#Weekend,22,45,35,26-01-23,17:40:00
+37,Attending a live music concert tonight.,Positive,#Music,#ConcertNight,18,35,36,27-01-23,20:00:00
+38,Practicing mindfulness with meditation.,Positive,#Mindfulness,#Meditation,15,30,37,27-01-23,12:30:00
+39,Trying out a new dessert recipe.,Positive,#Dessert,#Cooking,12,25,38,27-01-23,16:10:00
+40,Excited about the upcoming gaming tournament.,Positive,#Gaming,#Tournament,30,60,39,28-01-23,09:00:00
+41,Planning a garden makeover for spring.,Positive,#Gardening,#Spring,25,50,40,28-01-23,14:45:00
+42,Celebrating a friend's birthday tonight! ,Positive,#Birthday,#Celebration,15,30,41,28-01-23,19:30:00
+43,Feeling accomplished after a productive day.,Positive,#Accomplished,#Success,22,45,42,29-01-23,17:00:00
+44,A cozy evening with a good movie.,Positive,#CozyNight,#MovieTime,18,35,43,29-01-23,20:20:00
+45,Exploring local art galleries this weekend.,Positive,#Art,#GalleryExplore,15,30,44,30-01-23,11:30:00
+46,New book release from my favorite author!,Positive,#BookRelease,#FavoriteAuthor,12,25,45,30-01-23,15:45:00
+47,Attending a virtual reality meetup.,Positive,#VRMeetup,#VirtualReality,28,55,46,30-01-23,18:30:00
+48,Reflecting on the beauty of nature.,Positive,#Nature,#Reflection,15,30,47,31-01-23,10:45:00
+49,Cooking a special dinner for loved ones.,Positive,#Cooking,#SpecialDinner,20,40,48,31-01-23,19:00:00
+50,Feeling optimistic about the week ahead.,Positive,#Optimism,#NewWeek,15,30,49,31-01-23,16:20:00
+51,Starting a new fitness challenge tomorrow! ,Positive,#FitnessChallenge,#NewBeginnings,22,45,50,01-02-23,08:00:00
+52,Sunday bike ride through scenic trails.,Positive,#BikeRide,#ScenicTrails,18,35,51,01-02-23,13:30:00
+53,Can't believe the injustice happening in our society.,Anger,#Injustice,#Angry,20,40,52,11-02-23,09:30:00
+54,Feeling a sense of fear after watching a thriller movie.,Fear,#Fear,#ThrillerMovie,15,30,53,11-02-23,21:15:00
+55,Heartbroken after hearing the news about a natural disaster.,Sadness,#Sadness,#NaturalDisaster,25,50,54,12-02-23,14:45:00
+56,The state of the world's environment is just disgusting.,Disgust,#Disgust,#Environment,18,35,55,12-02-23,18:20:00
+57,Pure happiness: celebrating a loved one's achievement!,Happiness,#Happiness,#Celebration,30,60,56,13-02-23,10:00:00
+58,Laughter is the best medicine???enjoying a comedy show.,Joy,#Joy,#ComedyShow,22,45,57,13-02-23,19:30:00
+59,Sharing love and positive vibes with everyone!,Love,#Love,#SpreadLove,15,30,58,14-02-23,08:30:00
+60,An amusing incident brightened up my day!,Amusement,#Amusement,#FunTimes,18,35,59,14-02-23,14:20:00
+61,Enjoying a quiet evening with a book and some tea.,Enjoyment,#Enjoyment,#BookTime,25,50,60,14-02-23,19:45:00
+62,Admiring the beauty of nature during a peaceful hike.,Admiration,#Admiration,#Nature,20,40,61,15-02-23,11:30:00
+63,Sending affectionate vibes to all my followers!,Affection,#Affection,#PositiveVibes,15,30,62,15-02-23,16:00:00
+64,Experiencing awe at the breathtaking sunset.,Awe,#Awe,#Breathtaking,22,45,63,15-02-23,20:30:00
+65,Disappointed with the service at a local restaurant.,Disappointed,#Disappointed,#BadService,18,35,64,16-02-23,09:00:00
+66,A surprise gift from a friend made my day!,Surprise,#Surprise,#Gift,25,50,65,16-02-23,14:45:00
+67,Finding acceptance in the midst of life's challenges.,Acceptance,#Acceptance,#Challenges,15,30,66,16-02-23,18:20:00
+68,Overflowing with adoration for my adorable pet! ,Adoration,#Adoration,#PetLove,22,45,67,17-02-23,10:45:00
+69,Anticipating a thrilling adventure in the coming weeks.,Anticipation,#Anticipation,#Adventure,20,40,68,17-02-23,07:30:00
+70,A bitter experience turned into a valuable lesson.,Bitter,#BitterLesson,#Growth,18,35,69,17-02-23,15:00:00
+71,Finding calmness in the midst of a busy day.,Calmness,#Calmness,#PeacefulMind,15,30,70,18-02-23,09:30:00
+72,Confusion clouds my mind as I navigate through decisions.,Confusion,#Confusion,#DecisionMaking,25,50,71,18-02-23,14:20:00
+73,Excitement building up for the upcoming vacation!,Excitement,#Excitement,#TravelPlans,22,45,72,18-02-23,18:45:00
+74,Kindness witnessed today restored my faith in humanity.,Kind,#Kindness,#Humanity,20,40,73,19-02-23,11:30:00
+75,Pride in achieving a personal milestone.,Pride,#Pride,#Milestone,30,60,74,19-02-23,16:00:00
+76,A moment of shame for not standing up against injustice.,Shame,#Shame,#Injustice,15,30,75,19-02-23,19:45:00
+77,Fuming with anger after a heated argument.,Anger,#Anger,#Argument,20,40,76,20-02-23,09:30:00
+78,The fear of the unknown is keeping me up at night.,Fear,#Fear,#Unknown,15,30,77,20-02-23,21:15:00
+79,Heartfelt sadness after bidding farewell to a dear friend.,Sadness,#Sadness,#Farewell,25,50,78,21-02-23,14:45:00
+80,The state of corruption in our society is utterly disgusting.,Disgust,#Disgust,#Corruption,18,35,79,21-02-23,18:20:00
+81,Overflowing happiness: welcoming a new family member!,Happiness,#Happiness,#NewFamilyMember,30,60,80,22-02-23,10:00:00
+82,Laughter is the key to joy???attending a stand-up comedy show.,Joy,#Joy,#StandUpComedy,22,45,81,22-02-23,19:30:00
+83,Sending love to all my followers on this beautiful day! ,Love,#Love,#SpreadLove,15,30,82,23-02-23,08:30:00
+84,Amused by the antics of my pet???it's pure amusement!,Amusement,#Amusement,#PetAntics,18,35,83,23-02-23,14:20:00
+85,Enjoying every moment of this trip???pure enjoyment!,Enjoyment,#Enjoyment,#Travel,25,50,84,23-02-23,19:45:00
+86,Admiring the dedication of volunteers at a local charity.,Admiration,#Admiration,#Volunteers,20,40,85,24-02-23,11:30:00
+87,Sending affectionate vibes to friends and family.,Affection,#Affection,#FamilyLove,15,30,86,24-02-23,16:00:00
+88,Awe-struck by the beauty of the night sky.,Awe,#Awe,#StarryNight,22,45,87,24-02-23,20:30:00
+89,Disappointed with the lack of progress in a personal project.,Disappointed,#Disappointed,#Project,18,35,88,25-02-23,09:00:00
+90,A surprise visit from an old friend brought tears of joy.,Surprise,#Surprise,#OldFriends,25,50,89,25-02-23,14:45:00
+91,Embracing acceptance of life's ups and downs.,Acceptance,#Acceptance,#LifeJourney,15,30,90,25-02-23,18:20:00
+92,Overflowing adoration for a cute rescue puppy! ,Adoration,#Adoration,#PuppyLove,22,45,91,26-02-23,10:45:00
+93,Anticipating the release of a much-awaited movie.,Anticipation,#Anticipation,#MovieRelease,20,40,92,26-02-23,07:30:00
+94,Bitter experience at the customer service department.,Bitter,#BitterExperience,#CustomerService,18,35,93,26-02-23,15:00:00
+95,Finding calmness amidst the chaos of daily life.,Calmness,#Calmness,#InnerPeace,15,30,94,27-02-23,09:30:00
+96,Confusion reigns as I try to make sense of recent events.,Confusion,#Confusion,#MakingSense,25,50,95,27-02-23,14:20:00
+97,Excitement building up for a surprise birthday party.,Excitement,#Excitement,#SurpriseParty,22,45,96,27-02-23,18:45:00
+98,Witnessed an act of kindness that made my day.,Kind,#Kindness,#ActsOfKindness,20,40,97,28-02-23,11:30:00
+99,Pride in completing a challenging fitness challenge.,Pride,#Pride,#FitnessChallengeCompleted,30,60,98,28-02-23,16:00:00
+100,A moment of shame for not speaking up against injustice.,Shame,#Shame,#Injustice,15,30,99,28-02-23,19:45:00
+101,Reflecting on the beauty of diversity in our world.,Acceptance,#Acceptance,#Diversity,22,45,100,01-03-23,10:45:00
+102,Excitement for a quiet evening with a good book.,Excitement,#Excitement,#BookTime,18,35,101,01-03-23,13:30:00
+103,Feeling bitter about the unfairness in the workplace.,Bitter,#Bitter,#Unfairness,15,30,102,01-03-23,17:45:00
+104,Calmness prevails as I practice mindfulness.,Calmness,#Calmness,#Mindfulness,15,30,103,02-03-23,18:00:00
+105,Confusion surrounds me as I navigate through life's choices.,Confusion,#Confusion,#LifeChoices,30,60,104,02-03-23,13:15:00
+106,Excitement for a weekend road trip to explore new places.,Excitement,#Excitement,#WeekendAdventure,25,50,105,02-03-23,16:45:00
+107,Kindness witnessed today restores my faith in humanity.,Kind,#Kindness,#HumanityRestored,22,45,106,03-03-23,11:30:00
+108,Pride in accomplishing personal and professional goals.,Pride,#Pride,#Accomplishments,12,25,107,03-03-23,14:30:00
+109,Shame for not being true to my values in a difficult situation.,Shame,#Shame,#Integrity,15,30,108,03-03-23,12:00:00
+110,"Revisiting old memories, feeling a sense of elation.",Elation,#Elation,#Memories,20,40,109,15-05-10,15:30:00
+111,The victory of our team brought euphoria to the city.,Euphoria,#Euphoria,#Victory,15,30,110,10-08-21,21:15:00
+112,"Embracing the beauty of nature, a moment of contentment.",Contentment,#Contentment,#Nature,25,50,111,20-06-11,14:45:00
+113,"Meditating by the serene lake, finding inner peace.",Serenity,#Serenity,#Meditation,18,35,112,12-02-22,18:20:00
+114,Overflowing with gratitude for life's blessings.,Gratitude,#Gratitude,#Blessed,30,60,113,25-11-12,10:00:00
+115,"Hopeful for a brighter tomorrow, despite challenges.",Hope,#Hope,#Optimism,22,45,114,05-04-13,19:30:00
+116,Empowered to make a difference in my community.,Empowerment,#Empowerment,#Community,15,30,115,14-09-14,08:30:00
+117,Compassion in action: supporting a local charity event.,Compassion,#Compassion,#CharityEvent,18,35,116,18-07-15,14:20:00
+118,"A moment of tenderness, connecting with loved ones.",Tenderness,#Tenderness,#FamilyTime,25,50,117,23-02-16,19:45:00
+119,Arousal of excitement as I await a special announcement.,Arousal,#Arousal,#Excitement,20,40,118,30-10-17,11:30:00
+120,Enthusiastically diving into a new project.,Enthusiasm,#Enthusiasm,#NewProject,15,30,119,15-06-18,16:00:00
+121,Feeling a sense of fulfillment after reaching a milestone.,Fulfillment,#Fulfillment,#Milestone,22,45,120,28-03-19,18:20:00
+122,Reverence for the beauty of a historic landmark.,Reverence,#Reverence,#History,18,35,121,11-11-19,15:00:00
+123,Elation after a surprise reunion with old friends.,Elation,#Elation,#OldFriends,25,50,122,02-04-20,09:30:00
+124,The euphoria of a live music concert under the stars.,Euphoria,#Euphoria,#LiveMusic,15,30,123,19-06-21,14:45:00
+125,Contentment in the simplicity of a quiet Sunday.,Contentment,#Contentment,#SundayMood,30,60,124,15-08-10,10:00:00
+126,Serenity found in the pages of a favorite book.,Serenity,#Serenity,#BookTime,22,45,125,22-09-11,19:30:00
+127,Gratitude for the support received during tough times.,Gratitude,#Gratitude,#Supportive,15,30,126,10-03-12,08:30:00
+128,Hopeful about the possibilities of a new journey.,Hope,#Hope,#NewBeginnings,18,35,127,05-12-13,16:00:00
+129,Empowerment through learning and personal growth.,Empowerment,#Empowerment,#PersonalGrowth,25,50,128,20-07-14,11:30:00
+130,Compassion towards those in need during the holidays.,Compassion,#Compassion,#HolidaySupport,18,35,129,22-12-15,14:20:00
+131,Tenderness in the warmth of a cozy winter evening.,Tenderness,#Tenderness,#CozyEvening,25,50,130,10-02-16,19:45:00
+132,Arousal of excitement for an upcoming adventure.,Arousal,#Arousal,#AdventureTime,20,40,131,30-04-17,11:30:00
+133,Enthusiasm for a creative project in the making.,Enthusiasm,#Enthusiasm,#Creativity,15,30,132,15-09-18,16:00:00
+134,Fulfillment in completing a challenging workout routine.,Fulfillment,#Fulfillment,#FitnessGoals,22,45,133,28-06-19,18:20:00
+135,Reverence for the artistry displayed in a museum.,Reverence,#Reverence,#ArtAppreciation,18,35,134,11-11-20,15:00:00
+136,Elation after achieving a personal goal.,Elation,#Elation,#PersonalAchievement,25,50,135,02-03-21,09:30:00
+137,Elation over discovering a hidden gem in the city.,Elation,#Elation,#HiddenGem,20,40,136,18-02-12,14:30:00
+138,The euphoria of a surprise birthday celebration.,Euphoria,#Euphoria,#BirthdaySurprise,15,30,137,05-11-18,21:45:00
+139,Contentment in the simplicity of a home-cooked meal.,Contentment,#Contentment,#HomeCooking,25,50,138,12-09-15,13:20:00
+140,Serenity found in the melody of a peaceful piano.,Serenity,#Serenity,#PeacefulMelody,18,35,139,30-07-16,18:10:00
+141,Gratitude for the supportive community around me.,Gratitude,#Gratitude,#CommunitySupport,30,60,140,20-04-13,10:30:00
+142,Hopeful about the prospects of a new business venture.,Hope,#Hope,#BusinessVenture,22,45,141,08-12-17,19:15:00
+143,Empowerment through mentoring and guiding others.,Empowerment,#Empowerment,#Mentorship,15,30,142,03-06-14,08:20:00
+144,Compassion shown through acts of kindness in the community.,Compassion,#Compassion,#CommunityKindness,18,35,143,15-01-19,14:50:00
+145,Tenderness in a heartfelt message to a loved one.,Tenderness,#Tenderness,#LoveNote,25,50,144,25-12-16,19:30:00
+146,Arousal of excitement before a much-awaited trip.,Arousal,#Arousal,#TravelAdventure,20,40,145,10-03-18,09:45:00
+147,Enthusiasm for a new artistic project in the works.,Enthusiasm,#Enthusiasm,#ArtisticProject,15,30,146,17-09-20,16:30:00
+148,Feeling a sense of fulfillment after helping others.,Fulfillment,#Fulfillment,#HelpingOthers,22,45,147,28-08-11,18:45:00
+149,Reverence for the historical significance of a landmark.,Reverence,#Reverence,#HistoricalSite,18,35,148,01-11-17,15:30:00
+150,Elation after achieving a fitness milestone.,Elation,#Elation,#FitnessMilestone,25,50,149,15-06-19,10:00:00
+151,The euphoria of a successful product launch.,Euphoria,#Euphoria,#ProductLaunchSuccess,15,30,150,03-04-22,11:45:00
+152,Contentment in the embrace of a loved one.,Contentment,#Contentment,#Love,30,60,151,12-11-10,20:20:00
+153,Serenity found in the beauty of a sunset by the sea.,Serenity,#Serenity,#SunsetViews,22,45,152,22-07-11,18:30:00
+154,Gratitude for the small joys that each day brings.,Gratitude,#Gratitude,#SmallJoys,15,30,153,30-03-12,11:20:00
+155,Hopeful about the potential for personal growth.,Hope,#Hope,#PersonalDevelopment,18,35,154,05-10-13,16:40:00
+156,Empowerment through learning a new skill.,Empowerment,#Empowerment,#SkillBuilding,25,50,155,10-07-14,13:15:00
+157,Compassion in volunteering for a local charity.,Compassion,#Compassion,#VolunteerWork,18,35,156,18-12-15,14:20:00
+158,Tenderness in a quiet moment shared with a pet.,Tenderness,#Tenderness,#PetLove,25,50,157,10-02-16,19:45:00
+159,Arousal of excitement for an upcoming festival.,Arousal,#Arousal,#FestivalExcitement,20,40,158,25-09-17,11:30:00
+160,Enthusiasm for a DIY home improvement project.,Enthusiasm,#Enthusiasm,#HomeImprovement,15,30,159,15-04-18,16:00:00
+161,Fulfillment in completing a challenging puzzle.,Fulfillment,#Fulfillment,#PuzzleChallenge,22,45,160,28-11-19,18:20:00
+162,Reverence for the wonders of nature on a hiking trail.,Reverence,#Reverence,#NatureExploration,18,35,61,11-05-20,15:00:00
+163,Elation after a surprise reunion with a childhood friend.,Elation,#Elation,#FriendshipReunion,25,50,162,05-02-21,09:30:00
+164,Suffering from despair after another setback.,Despair,#Despair,#Struggle,5,10,163,10-03-21,08:30:00
+165,"Overwhelmed by grief, missing a loved one dearly.",Grief,#Grief,#Loss,8,15,164,05-07-22,15:45:00
+166,Loneliness creeps in as the night grows colder.,Loneliness,#Loneliness,#Isolation,10,20,165,18-11-19,21:20:00
+167,Jealousy consumes me as I witness others' success.,Jealousy,#Jealousy,#Envy,12,25,166,12-08-20,11:30:00
+168,Resentment building up over past betrayals.,Resentment,#Resentment,#Bitterness,7,15,167,22-05-18,14:45:00
+169,Frustration mounts as obstacles block my path.,Frustration,#Frustration,#Obstacles,10,20,168,30-01-17,16:10:00
+170,"Boredom sets in, the day feels endlessly dull.",Boredom,#Boredom,#LackOfInterest,8,15,169,28-09-16,19:45:00
+171,"Anxiety grips my heart, worry clouds my thoughts.",Anxiety,#Anxiety,#Worry,12,25,170,15-04-19,09:00:00
+172,Intimidation by the unknown future ahead.,Intimidation,#Intimidation,#Fear,15,30,171,03-12-21,18:30:00
+173,Helplessness sinks in as challenges pile up.,Helplessness,#Helplessness,#Overwhelmed,8,15,172,20-06-20,14:20:00
+174,Envy eats away at me as I see others' prosperity.,Envy,#Envy,#Desire,10,20,173,07-11-18,11:30:00
+175,Regret over missed opportunities haunts my thoughts.,Regret,#Regret,#MissedChances,12,25,174,25-08-17,16:00:00
+176,Disgust at the sight of injustice and cruelty.,Disgust,#Disgust,#Injustice,7,15,175,11-02-19,09:45:00
+177,"Drowning in despair, hope slipping through my fingers.",Despair,#Despair,#Hopeless,10,20,176,02-04-16,20:20:00
+178,"Grief weighs heavy, tears a constant companion.",Grief,#Grief,#Tears,12,25,177,18-10-15,15:30:00
+179,"Loneliness in a crowded room, a silent cry for connection.",Loneliness,#Loneliness,#SeekingConnection,15,30,178,12-07-19,18:10:00
+180,"Jealousy gnaws at my confidence, a toxic emotion.",Jealousy,#Jealousy,#Insecurity,8,15,179,03-06-18,16:30:00
+181,"Resentment festers, poisoning relationships.",Resentment,#Resentment,#BrokenTrust,10,20,180,15-01-22,12:00:00
+182,"Frustration boils over, a volcanic eruption of emotions.",Frustration,#Frustration,#EmotionalOutburst,12,25,181,10-04-17,14:45:00
+183,"Boredom settles like dust, life feels mundane.",Boredom,#Boredom,#Monotony,7,15,182,28-11-16,19:00:00
+184,"Anxiety grips my chest, a relentless grip on my thoughts.",Anxiety,#Anxiety,#Restlessness,10,20,183,05-09-18,09:30:00
+185,"Intimidation by the challenges ahead, fear takes hold.",Intimidation,#Intimidation,#FacingFear,15,30,184,22-10-21,18:30:00
+186,"Helplessness engulfs me, drowning in a sea of problems.",Helplessness,#Helplessness,#Struggling,8,15,185,08-05-19,14:20:00
+187,"Envy poisons my thoughts, coveting others' success.",Envy,#Envy,#Success,10,20,186,20-03-17,11:30:00
+188,Regret for decisions that led to a painful present.,Regret,#Regret,#PastChoices,12,25,187,15-12-18,16:00:00
+189,Disgust at the corruption that stains society.,Disgust,#Disgust,#Corruption,7,15,188,01-07-16,09:45:00
+190,"Sinking in despair, each day darker than the last.",Despair,#Despair,#DarkDays,10,20,189,20-08-20,20:20:00
+191,"Grief overwhelms, a storm of emotions within.",Grief,#Grief,#EmotionalStorm,12,25,190,25-02-21,15:30:00
+192,"Loneliness echoes in empty spaces, yearning for connection.",Loneliness,#Loneliness,#YearningForConnection,15,30,191,12-09-19,18:10:00
+193,"Jealousy poisons my thoughts, resentment brewing within.",Jealousy,#Jealousy,#Resentment,8,15,192,05-08-18,16:30:00
+194,"Resentment festers, a wound that refuses to heal.",Resentment,#Resentment,#Unforgiving,10,20,193,12-01-17,12:00:00
+195,"Frustration escalates, a thunderstorm of emotions.",Frustration,#Frustration,#EmotionalOutburst,12,25,194,05-04-22,14:45:00
+196,"Boredom lingers, a stagnant pool of indifference.",Boredom,#Boredom,#Stagnation,7,15,195,02-10-21,19:00:00
+197,"Embarking on a journey of discovery, fueled by curiosity and a thirst for knowledge.",Curiosity,#Curiosity,#Learning,15,30,196,15-04-23,10:15:00
+198,"Lost in the vast sea of information, an indifferent wave in the digital ocean.",Indifference,#Indifference,#DigitalOverload,7,15,197,28-11-22,17:30:00
+199,"The complex puzzle of life leaves me in a state of perpetual confusion, seeking answers in the chaos.",Confusion,#Confusion,#LifePuzzle,10,20,198,02-04-20,09:45:00
+200,"A numbness settles over me, a shield against the overwhelming emotions life throws my way.",Numbness,#Numbness,#EmotionalShield,8,15,199,10-08-21,14:00:00
+201,"Gazing at the sunset, a melancholic longing for moments that slip through the fingers of time.",Melancholy,#Melancholy,#SunsetMoments,12,25,200,18-06-19,20:45:00
+202,"Revisiting old photographs, caught in the embrace of nostalgia's bittersweet symphony.",Nostalgia,#Nostalgia,#MemoryLane,10,20,201,05-02-18,15:15:00
+203,"Torn between conflicting emotions, an ambivalence that paints my decisions in shades of uncertainty.",Ambivalence,#Ambivalence,#UncertainChoices,12,25,202,30-05-22,11:30:00
+204,"Embracing the ebb and flow of life, finding acceptance in the dance of existence.",Acceptance,#Acceptance,#LifeJourney,15,30,203,10-01-23,16:20:00
+205,"Facing challenges head-on, a determination that fuels the fire within to achieve the impossible.",Determination,#Determination,#AchieveTheImpossible,10,20,204,18-09-20,13:45:00
+206,"Serenity found in the stillness of nature, a tranquil retreat from the chaos of the modern world.",Serenity,#Serenity,#NatureRetreat,12,25,205,03-07-21,19:00:00
+207,"Curiosity leading me down the rabbit hole of knowledge, a perpetual student in life's classroom.",Curiosity,#Curiosity,#KnowledgeQuest,20,40,206,08-10-22,08:15:00
+208,"Floating through the day with an air of indifference, detached from the mundane happenings around.",Indifference,#Indifference,#FloatingThroughLife,10,20,207,22-03-23,16:30:00
+209,"Entangled in the web of thoughts, confusion reigning as I navigate the labyrinth of ideas.",Confusion,#Confusion,#ThoughtLabyrinth,15,30,208,15-05-21,11:45:00
+210,"Numb to the chaos, emotions locked away, a stoic facade concealing the inner turmoil.",Numbness,#Numbness,#StoicFacade,8,15,209,28-12-19,14:30:00
+211,"Melancholy whispers in the breeze, a silent conversation with the echoes of forgotten dreams.",Melancholy,#Melancholy,#WhispersInTheBreeze,12,25,210,01-03-20,19:00:00
+212,"Stumbling upon an old journal, nostalgia flooding in waves, carrying me to moments long gone.",Nostalgia,#Nostalgia,#JournalMoments,10,20,211,10-07-18,15:45:00
+213,"A tapestry of conflicting feelings, weaving through uncertainty, caught in the threads of ambivalence.",Ambivalence,#Ambivalence,#ConflictingFeelings,12,25,212,05-01-22,10:30:00
+214,"Embracing the flaws, finding acceptance in imperfection, a journey towards self-love.",Acceptance,#Acceptance,#SelfLoveJourney,15,30,213,20-08-21,16:20:00
+215,"Determination burning like a wildfire, overcoming obstacles, turning dreams into reality.",Determination,#Determination,#DreamsIntoReality,18,35,214,03-11-19,13:45:00
+216,"Tranquil moments by the ocean, serenity washing over, a peaceful retreat within the waves' embrace.",Serenity,#Serenity,#OceanRetreat,25,50,215,12-04-20,19:30:00
+217,"Exploring new horizons with the spark of curiosity, an adventurer in the vast landscape of knowledge.",Curiosity,#Curiosity,#NewHorizons,22,45,216,15-04-22,08:45:00
+218,"Drifting through the day with a nonchalant demeanor, embracing the art of indifference.",Indifference,#Indifference,#DriftingThroughLife,9,18,217,10-02-23,17:00:00
+219,"Wrestling with thoughts, a perplexed mind lost in the labyrinth of life's complexities.",Confusion,#Confusion,#PerplexedMind,14,28,218,05-08-20,12:15:00
+220,"Immersed in a state of emotional numbness, a shield against the storm of daily struggles.",Numbness,#Numbness,#EmotionalShield,10,20,219,01-12-21,15:30:00
+221,"A melancholic symphony playing in the background, the soundtrack of a wistful heart.",Melancholy,#Melancholy,#WistfulHeart,13,26,220,25-03-19,21:00:00
+222,"Flipping through the pages of an old yearbook, nostalgia painting smiles and tears on my face.",Nostalgia,#Nostalgia,#YearbookMemories,12,25,221,18-06-17,14:45:00
+223,"Torn between opposing emotions, an ambivalence that colors my decisions with shades of uncertainty.",Ambivalence,#Ambivalence,#ShadesOfUncertainty,15,30,222,08-07-22,11:30:00
+224,"Embracing life's imperfections, finding acceptance in the journey, scars and all.",Acceptance,#Acceptance,#ImperfectJourney,18,36,223,15-05-23,16:20:00
+225,"A fiery determination burning within, fueled by the vision of reaching unparalleled heights.",Determination,#Determination,#UnparalleledHeights,20,40,224,10-09-21,14:45:00
+226,"Basking in the serenity of a quiet forest, where the whispers of nature bring peace to the soul.",Serenity,#Serenity,#NatureWhispers,25,50,225,28-02-20,18:30:00
+227,"Indifferent to the noise of the world, a silent observer in the midst of life's cacophony.",Indifference,#Indifference,#SilentObserver,9,18,226,10-03-23,16:30:00
+228,"Navigating through the labyrinth of thoughts, confusion a constant companion in the maze of ideas.",Confusion,#Confusion,#ThoughtLabyrinth,14,28,227,02-05-21,11:45:00
+229,"An impenetrable numbness shields me from the emotional storms, a fortress of stoic resilience.",Numbness,#Numbness,#StoicResilience,11,22,228,18-10-19,14:30:00
+230,"Melancholy painting the world in hues of nostalgia, a canvas of bittersweet memories.",Melancholy,#Melancholy,#BittersweetMemories,13,26,229,05-01-20,20:00:00
+231,"A journey into the past, flipping through the pages of an old diary, nostalgia taking the lead.",Nostalgia,#Nostalgia,#DiaryJourney,12,25,230,10-08-18,15:45:00
+232,"Ambivalence clouding decisions, caught in the crossroads of conflicting emotions.",Ambivalence,#Ambivalence,#ConflictingEmotions,15,30,231,15-01-22,10:30:00
+233,"Embracing imperfections, finding acceptance in the mosaic of life's beautiful chaos.",Acceptance,#Acceptance,#BeautifulChaos,18,36,232,20-07-21,16:20:00
+234,"Determination as the driving force, propelling me forward on the path to extraordinary achievements.",Determination,#Determination,#ExtraordinaryPath,20,40,233,03-12-19,13:45:00
+235,"Seeking serenity in the melody of raindrops, a tranquil escape from the noise of everyday life.",Serenity,#Serenity,#RaindropMelody,25,50,234,12-04-20,19:30:00
+236,"Curiosity driving the exploration of the unknown, a seeker of knowledge in uncharted territories.",Curiosity,#Curiosity,#SeekerOfKnowledge,22,45,235,08-05-22,08:45:00
+237,"Drifting through the day with an air of nonchalance, indifferent to the trivialities of life.",Indifference,#Indifference,#DriftingThroughLife,9,18,236,22-02-23,17:00:00
+238,"Lost in the labyrinth of thoughts, confusion casting shadows on the quest for clarity.",Confusion,#Confusion,#LabyrinthOfThoughts,14,28,237,05-06-20,12:15:00
+239,"Wrapped in the cloak of emotional numbness, a shield against the storms of life's turbulence.",Numbness,#Numbness,#EmotionalStorms,10,20,238,30-11-21,15:30:00
+240,"Melancholy as a companion, painting the canvas of life with the brushstrokes of wistful yearning.",Melancholy,#Melancholy,#WistfulYearning,13,26,239,25-02-19,21:00:00
+241,"Leafing through the pages of an old photo album, nostalgia weaving tales of laughter and tears.",Nostalgia,#Nostalgia,#PhotoAlbumStories,12,25,240,18-05-17,14:45:00
+242,"Ambivalence in the air, caught between the crossroads of conflicting emotions and decisions.",Ambivalence,#Ambivalence,#CrossroadsConfusion,15,30,241,05-08-22,11:30:00
+243,"Embracing the beauty in imperfections, finding acceptance in the mosaic of life's unpredictable art.",Acceptance,#Acceptance,#UnpredictableArt,18,36,242,15-06-23,16:20:00
+244,"Determination ablaze, forging a path through challenges, sculpting dreams into tangible realities.",Determination,#Determination,#SculptingDreams,20,40,243,10-10-21,14:45:00
+245,"Immerse in the serenity of a moonlit night, where the quiet whispers of nature bring peace to the soul.",Serenity,#Serenity,#MoonlitPeace,25,50,244,12-05-20,19:30:00
+246,"Fueled by curiosity, venturing into uncharted realms, a fearless explorer of the mysteries of the world.",Curiosity,#Curiosity,#FearlessExplorer,22,44,245,01-12-22,09:15:00
+247,"Wrapped in the cloak of emotional numbness, a shield against the storms of life's turbulence.",Numbness,#Numbness,#EmotionalStorms,10,20,246,30-11-21,15:30:00
+248,"Dancing through life with the exuberance of a carefree spirit, embracing joy and zest at every turn.",Zest,#Zest,#CarefreeSpirit,15,30,247,12-07-18,17:45:00
+249,"Basking in the golden glow of contentment, a serene river flowing through the landscape of the heart.",Contentment,#Contentment,#GoldenGlow,18,36,248,05-09-20,20:10:00
+250,"Gazing towards the horizon with hopeful eyes, painting a canvas of dreams illuminated by the sun of optimism.",Hopeful,#Hopeful,#CanvasOfDreams,12,24,249,18-04-22,08:00:00
+251,"Standing tall, proud as an oak, the branches of achievement reaching towards the sky of accomplishment.",Proud,#Proud,#BranchesOfAchievement,25,50,250,10-12-19,12:20:00
+252,"A heart overflowing with gratitude, a garden where appreciation blooms in the soil of kindness and connection.",Grateful,#Grateful,#BlossomingConnection,20,40,251,28-02-23,09:45:00
+253,"Extending a hand, empathetic threads weaving a tapestry of understanding, embracing the joys and sorrows of others.",Empathetic,#Empathetic,#TapestryOfUnderstanding,15,30,252,03-04-18,14:15:00
+254,"Compassionate clouds, heavy with care, showering empathy on the parched grounds of human suffering.",Compassionate,#Compassionate,#ShowerOfEmpathy,18,36,253,20-06-22,10:30:00
+255,"Playfully dancing in the rain of laughter, a whimsical spirit twirling in the puddles of joy and lightheartedness.",Playful,#Playful,#DanceInTheRain,22,44,254,08-07-20,18:00:00
+256,"Soaring on the wings of a free spirit, unburdened by the chains of conformity, painting the sky with independence.",Free-spirited,#FreeSpirit,#PaintingTheSky,20,40,255,15-08-21,11:10:00
+257,"Bathed in the glow of inspiration, a creative phoenix rising from the ashes of ordinary thoughts to explore new realms.",Inspired,#Inspired,#CreativePhoenix,15,30,256,25-10-19,16:50:00
+258,"Navigating the sea of hope, sailing towards the sunrise of possibilities, confident in the ship of positive anticipation.",Hopeful,#Hopeful,#SunriseOfPossibilities,12,24,257,05-10-23,07:30:00
+259,"Striding with confidence, footprints of self-assuredness imprinted on the sands of challenges conquered and victories claimed.",Confident,#Confident,#FootprintsOfAssuredness,25,50,258,15-02-22,13:15:00
+260,"Lost in the symphony of the night, a moonlit serenade that whispers tales of wanderlust and moonlit dreams.",Serenity,#Serenity,#MoonlitSerenade,13,26,259,08-05-21,22:00:00
+261,"Unveiling the layers of curiosity, a labyrinth of questions leading to the treasure troves of undiscovered knowledge.",Curiosity,#Curiosity,#LabyrinthOfQuestions,17,34,260,29-11-20,14:45:00
+262,"In the embrace of the autumn breeze, leaves of ambivalence dancing in a waltz between choices and uncertainties.",Ambivalence,#Ambivalence,#AutumnWaltz,14,28,261,14-09-19,10:20:00
+263,"Gratitude as a guiding star, navigating the constellation of blessings in the vast universe of life's precious moments.",Grateful,#Grateful,#GuidingStar,19,38,262,12-03-22,19:55:00
+264,"With a zestful heart, sprinting through fields of enthusiasm, chasing sunbeams and laughter in the meadows of joy.",Zest,#Zest,#FieldsOfEnthusiasm,16,32,263,30-03-23,16:30:00
+265,"A compassionate rain, tears of empathy falling gently, nurturing the seeds of kindness in the garden of human connections.",Compassionate,#Compassionate,#TearsOfEmpathy,21,42,264,01-07-21,12:10:00
+266,"Proudly scaling the peaks of achievement, a mountaineer conquering challenges and planting the flag of success.",Proud,#Proud,#ScalingPeaks,23,46,265,05-01-20,08:45:00
+267,"Embraced by the hopeful dawn, a gardener sowing seeds of optimism, tending to the blooms of a brighter tomorrow.",Hopeful,#Hopeful,#SeedsOfOptimism,14,28,266,17-07-22,06:15:00
+268,"A playful escapade in the carnival of life, carousel laughter and cotton candy dreams swirling in the joyous atmosphere.",Playful,#Playful,#CarnivalEscapade,24,48,267,22-08-18,17:20:00
+269,"Floating on clouds of inspiration, an artist painting the sky with strokes of creativity, creating a masterpiece of dreams.",Inspired,#Inspired,#CloudsOfCreativity,18,36,268,08-12-21,14:30:00
+270,"Navigating the river of contentment, a serene boat cruise through the tranquil waters of inner peace and acceptance.",Contentment,#Contentment,#TranquilWaters,20,40,269,27-04-19,09:50:00
+271,"With empathy as a lantern, wandering through the dark alleys of sorrow, illuminating the path with compassion and care.",Empathetic,#Empathetic,#LanternOfCompassion,16,32,270,03-09-23,21:40:00
+272,"A free spirit soaring on the wings of dreams, leaving trails of independence in the azure sky of boundless possibilities.",Free-spirited,#FreeSpirit,#WingsOfDreams,22,44,271,10-06-20,10:05:00
+273,"Bathed in the golden hues of gratefulness, a sunset of appreciation casting its warm glow on the landscapes of the heart.",Grateful,#Grateful,#GoldenHues,19,38,272,01-04-22,18:30:00
+274,"Confident strides in the dance of life, a ballroom where self-assuredness leads, twirling through challenges with grace.",Confident,#Confident,#DanceOfLife,23,46,273,15-01-21,13:00:00
+275,"Hopeful whispers of wind, carrying the promises of a brighter tomorrow, a symphony of optimism in the air of possibilities.",Hopeful,#Hopeful,#BrighterTomorrows,15,30,274,06-05-23,07:20:00
+276,"Playfully juggling responsibilities, a circus performer balancing the acts of work and joy, tossing laughter into the air.",Playful,#Playful,#JugglingResponsibilities,25,50,275,18-11-19,15:15:00
+277,"Whispering tales of inspiration to the stars, a storyteller crafting constellations from the threads of imagination.",Inspired,#Inspired,#TalesToTheStars,14,28,276,29-08-20,20:45:00
+278,"Charting a course through the waves of hopeful anticipation, a sailor steering towards the shores of dreams yet unexplored.",Hopeful,#Hopeful,#SailorOfDreams,17,34,277,30-10-22,11:40:00
+279,"A compassionate rain, tears of empathy falling gently, nurturing the seeds of kindness in the garden of human connections.",Compassionate,#Compassionate,#TearsOfEmpathy,21,42,264,01-07-21,12:10:00
+280,"Embraced by the hopeful dawn, a gardener sowing seeds of optimism, tending to the blooms of a brighter tomorrow.",Hopeful,#Hopeful,#SeedsOfOptimism,14,28,266,17-07-22,06:15:00
+281,"Drowning in the abyss of despair, a heart shattered into fragments, lost in the echoing silence of hopelessness.",Despair,#Despair,#EchoingSilence,8,16,280,15-09-21,16:00:00
+282,"Bitterness festering like a venomous vine, entwining the soul in a web of resentment, poisoning the garden of peace.",Bitterness,#Bitterness,#ResentmentWeb,12,24,281,08-03-19,14:20:00
+283,"Wandering through the desert of loneliness, each step a heavy sigh, mirages of connection shimmering but never materializing.",Loneliness,#Loneliness,#MiragesOfConnection,15,30,282,20-07-17,11:45:00
+284,"Yearning for a touch that's not there, echoes of a distant warmth haunting the heart in the cold embrace of solitude.",Yearning,#Yearning,#DistantWarmth,10,20,283,02-11-20,19:30:00
+285,"Eyes wide open in the night, fearful shadows dancing on the walls, the mind a prisoner of imagined horrors.",Fearful,#Fearful,#ImaginedHorrors,18,36,284,12-05-22,02:00:00
+286,"Apprehensive steps on the tightrope of uncertainty, a balancing act where the fall seems inevitable, anxiety a constant companion.",Apprehensive,#Apprehensive,#BalancingAct,14,28,285,08-04-23,13:15:00
+287,"Overwhelmed by the weight of the world, Atlas with trembling shoulders, each responsibility a boulder in the landscape of exhaustion.",Overwhelmed,#Overwhelmed,#BouldersOfExhaustion,22,44,286,25-06-21,17:50:00
+288,"Jealousy, a green-eyed monster, lurking in the shadows, casting a dark cloud over the sunshine of others' success.",Jealous,#Jealous,#GreenEyedMonster,16,32,287,30-08-19,10:10:00
+289,"Devastated by the storm of betrayal, the wreckage of trust scattered like debris, a heart torn by the winds of broken promises.",Devastated,#Devastated,#WindsOfBrokenPromises,25,50,288,03-08-22,15:30:00
+290,"Frustrated fingers tapping on the keyboard, a symphony of annoyance composing an unsolvable puzzle of unmet expectations.",Frustrated,#Frustrated,#UnsolvablePuzzle,12,24,289,17-12-20,09:20:00
+291,"Envious eyes fixated on the gilded prize, a heartache fueled by the painful desire for possessions that seem forever out of reach.",Envious,#Envious,#GildedPrize,20,40,290,28-02-21,22:45:00
+292,"Dismissive glances, a fortress built with indifference, walls impenetrable to the pleas of understanding and recognition.",Dismissive,#Dismissive,#ImpenetrableWalls,14,28,291,10-05-18,14:00:00
+293,"Shattered dreams lie on the floor like fragments of glass, a mosaic of disappointment crafted by the hands of frustration.",Frustrated,#Frustrated,#MosaicOfDisappointment,15,30,292,07-01-22,11:10:00
+294,"Loneliness, a silent companion in the night, the only echo in the chamber of solitude, a heart's solitary nocturne.",Loneliness,#Loneliness,#SolitaryNocturne,18,36,293,19-09-19,03:30:00
+295,"Fearful whispers in the dark, the mind haunted by the specter of the unknown, shadows dancing to the rhythm of anxiety's tune.",Fearful,#Fearful,#SpecterOfTheUnknown,13,26,294,14-07-23,23:00:00
+296,"Bitterness, a bitter aftertaste lingering on the tongue, each word a reminder of wounds that refuse to heal with the passing of time.",Bitterness,#Bitterness,#BitterAftertaste,10,20,295,05-04-20,16:20:00
+297,"Overwhelmed by the cacophony of expectations, a drowning soul in the tempest of pressure, struggling to stay afloat.",Overwhelmed,#Overwhelmed,#DrowningSoul,20,40,296,29-11-21,08:45:00
+298,"Jealousy, a venom that seeps through the veins, poisoning the heart and turning it into a breeding ground for discontent.",Jealous,#Jealous,#HeartOfDiscontent,16,32,297,12-12-19,17:00:00
+299,"Devastated by the revelation of betrayal, the trust shattered like fragile glass, leaving shards of pain in its wake.",Devastated,#Devastated,#ShatteredTrust,25,50,298,20-05-22,14:50:00
+300,"Frustrated attempts to mend a broken connection, the threads of understanding slipping through the fingers like grains of sand.",Frustrated,#Frustrated,#SlippingThreads,14,28,299,03-09-20,12:15:00
+301,"Envious gazes cast upon the podium of success, a bitter pill swallowed, the taste lingering as a constant reminder of unattained heights.",Envious,#Envious,#BitterPill,20,40,300,10-02-21,19:30:00
+302,"Dismissive gestures, a curtain drawn to shield the vulnerability, a stage where emotions take a backseat to the performance of indifference.",Dismissive,#Dismissive,#IndifferencePerformance,12,24,301,18-08-18,14:40:00
+303,"Despair like a heavy fog, enveloping every thought, blurring the path ahead, a journey in the labyrinth of utter hopelessness.",Despair,#Despair,#LabyrinthOfHopelessness,8,16,302,28-02-22,21:00:00
+304,"Bitterness, a bitter chill in the air, freezing moments into icicles of resentment that dangle precariously over the landscape of memory.",Bitterness,#Bitterness,#IciclesOfResentment,15,30,303,15-10-19,10:30:00
+305,"Loneliness, a solitary moon in a starless sky, casting a cold glow on the landscape of isolation, where echoes bounce in empty spaces.",Loneliness,#Loneliness,#StarlessSky,18,36,304,01-12-17,18:50:00
+306,"Yearning for the warmth of a vanished sun, a heartache painted in the hues of a sunset that never graced the horizon.",Yearning,#Yearning,#HuesOfSunset,10,20,305,18-04-20,16:15:00
+307,"Fearful eyes scanning the shadows, a prisoner of the night, terrorized by the lurking monsters born from the mind's darkest corners.",Fearful,#Fearful,#LurkingMonsters,18,36,284,07-01-23,03:30:00
+308,"Apprehensive whispers in the wind, a forecast of uncertainty, the mind's weather vane spinning wildly in the storm of doubt.",Apprehensive,#Apprehensive,#StormOfDoubt,14,28,274,10-06-21,10:00:00
+309,"Overwhelmed by the maze of expectations, a minotaur of pressure lurking in the labyrinth, waiting to devour the spirit of resilience.",Overwhelmed,#Overwhelmed,#MinotaurOfPressure,22,44,308,22-02-20,15:20:00
+310,"Jealousy, a festering wound, the pain intensifying with each glance at the garden of others' achievements, blooming beyond the fence.",Jealous,#Jealous,#BloomingAchievements,16,32,309,17-03-18,14:45:00
+311,"Devastated, a heart in ruins, the echoes of shattered dreams reverberating in the chambers, a requiem for what once was whole.",Devastated,#Devastated,#EchoesOfShatteredDreams,25,50,310,28-10-22,11:15:00
+312,"Frustrated attempts to untangle the knot of confusion, the threads of understanding slipping further into the labyrinth of miscommunication.",Frustrated,#Frustrated,#LabyrinthOfMiscommunication,14,28,311,01-11-20,12:30:00
+313,"Envious eyes locked on the treasure chest of opportunities, a heartache fueled by the desire for keys that seem forever elusive.",Envious,#Envious,#DesireForKeys,20,40,312,15-01-21,22:10:00
+314,"Dismissive gestures, a curtain drawn to shield the vulnerability, a stage where emotions take a backseat to the performance of indifference.",Dismissive,#Dismissive,#IndifferencePerformance,12,24,291,18-08-18,14:00:00
+315,"Shattered dreams lie on the floor like fragments of glass, a mosaic of disappointment crafted by the hands of frustration.",Frustrated,#Frustrated,#MosaicOfDisappointment,15,30,292,07-01-22,11:10:00
+316,Awe-struck by the breathtaking sunrise over the mountains.,Awe,#Awe,#BreathtakingSunrise,28,55,315,03-04-22,06:15:00
+317,Navigating through the challenges with determination.,Determination,#Determination,#Challenges,15,30,316,12-10-23,10:30:00
+318,Nostalgia hits while flipping through an old photo album.,Nostalgia,#Nostalgia,#OldMemories,22,45,317,28-06-19,19:00:00
+319,Thrilled to witness the grandeur of a cultural festival.,Thrill,#Thrill,#CulturalCelebration,40,80,318,15-09-20,14:45:00
+320,Calmness found in the rhythm of raindrops on the windowpane.,Calmness,#Calmness,#RainyDays,18,35,319,08-11-17,21:20:00
+321,Overwhelmed by the support received during a personal challenge.,Overwhelmed,#Overwhelmed,#SupportiveCommunity,25,50,320,20-05-21,17:30:00
+322,Excitement builds as the countdown to a long-awaited vacation begins.,Excitement,#Excitement,#VacationCountdown,30,60,72,10-01-23,12:00:00
+323,"Reflecting on life's journey, grateful for the lessons learned.",Gratitude,#Gratitude,#LifeLessons,35,70,322,05-12-18,08:45:00
+324,Bittersweet emotions arise while bidding farewell to a dear friend.,Bittersweet,#Bittersweet,#Farewell,20,40,323,15-03-20,18:30:00
+325,Curiosity sparked by exploring a mysterious ancient ruin.,Curiosity,#Curiosity,#AncientDiscovery,18,35,324,22-08-16,15:10:00
+326,Admiration for the intricate details of a handcrafted masterpiece.,Admiration,#Admiration,#HandcraftedArt,25,50,325,20-08-19,16:00:00
+327,Overjoyed by the warmth of a cozy fireplace on a winter evening.,Overjoyed,#Overjoyed,#WinterWarmth,18,35,326,08-12-21,19:30:00
+328,Inspiration strikes while observing the colors of a vibrant sunset.,Inspiration,#Inspiration,#ColorfulSunset,30,60,327,10-06-20,20:45:00
+329,Motivated to achieve fitness goals after an invigorating workout.,Motivation,#Motivation,#FitnessGoals,40,80,328,28-02-22,07:15:00
+330,Gratitude for the simple joys found in a cup of morning coffee.,Gratitude,#Gratitude,#MorningCoffee,22,45,329,15-04-17,08:00:00
+331,Feeling empowered after conquering a challenging hiking trail.,Empowerment,#Empowerment,#HikingAdventure,35,70,330,05-09-18,14:20:00
+332,Amused by the antics of playful kittens during playtime.,Amusement,#Amusement,#PlayfulKittens,15,30,331,22-10-22,12:45:00
+333,Contemplating life's mysteries under the starry night sky.,Contemplation,#Contemplation,#StarryNight,28,55,87,02-07-16,23:30:00
+334,Joyful reunion with long-lost friends after years of separation.,JoyfulReunion,#JoyfulReunion,#Friendship,20,40,333,18-11-20,17:10:00
+335,Excitement builds while preparing for a surprise celebration.,Excitement,#Excitement,#SurpriseCelebration,30,60,334,05-03-23,15:00:00
+336,Satisfaction derived from successfully completing a DIY project.,Satisfaction,#Satisfaction,#DIYProject,25,50,159,01-12-15,11:30:00
+337,Feeling blessed for the supportive community in times of need.,Blessed,#Blessed,#SupportiveCommunity,18,35,336,10-09-21,09:45:00
+338,Captivated by the serenity of a tranquil garden in full bloom.,Serenity,#Serenity,#TranquilGarden,22,45,337,12-05-18,14:20:00
+339,Anticipation for an upcoming adventure in an exotic destination.,Anticipation,#Anticipation,#AdventureAwaits,40,80,338,25-07-22,10:00:00
+340,Reflecting on personal growth achieved through life experiences.,Reflection,#Reflection,#PersonalGrowth,35,70,128,08-03-19,18:30:00
+341,Nostalgic memories flood in while revisiting childhood favorites.,Nostalgia,#Nostalgia,#ChildhoodFavorites,20,40,340,28-01-17,21:15:00
+342,Appreciation for the vibrant culture experienced during travel.,Appreciation,#Appreciation,#CulturalExperience,28,55,341,14-11-16,13:45:00
+343,Confidence soars after overcoming public speaking anxiety.,Confidence,#Confidence,#OvercomingAnxiety,15,30,342,02-04-20,17:30:00
+344,Contentment in the midst of a family gathering filled with laughter.,Contentment,#Contentment,#FamilyLaughter,25,50,343,15-01-23,19:00:00
+345,Enthusiasm for learning new skills and expanding knowledge.,Enthusiasm,#Enthusiasm,#SkillBuilding,30,60,344,07-08-18,12:15:00
+346,Surprise and delight at discovering a hidden gem in the city.,Surprise,#Surprise,#HiddenGem,18,35,345,18-10-19,16:45:00
+347,A sense of accomplishment after completing a challenging workout.,Accomplishment,#Accomplishment,#FitnessSuccess,22,45,133,30-06-22,07:00:00
+348,Wonderment at the beauty of a double rainbow after the rain.,Wonderment,#Wonderment,#DoubleRainbow,35,70,347,12-06-17,18:20:00
+349,Optimism for a bright future amidst challenging times.,Optimism,#Optimism,#BrightFuture,20,40,348,05-07-21,09:30:00
+350,Pride in achieving a personal milestone in career progression.,Pride,#Pride,#CareerMilestone,28,55,349,15-04-16,14:50:00
+351,Happiness blooms like flowers in a garden on a sunny day.,Happiness,#Happiness,#SunnyDay,15,30,350,10-02-20,11:15:00
+352,Elation over discovering a rare book in a quaint bookstore.,Elation,#Elation,#RareBookDiscovery,40,80,351,22-09-18,16:30:00
+353,Curiosity piqued by the mysteries of an ancient archaeological site.,Curiosity,#Curiosity,#AncientMysteries,18,35,352,08-11-15,10:00:00
+354,Mesmerized by the cosmic dance of fireflies on a moonlit night.,Enchantment,#Enchantment,#CosmicFireflies,25,50,353,10-08-22,22:00:00
+355,Intrigued by the symphony of colors in an abstract art exhibition.,Intrigue,#Intrigue,#AbstractArt,18,35,354,05-04-19,17:30:00
+356,Giggles and joy echo in the air during a children's playdate.,PlayfulJoy,#PlayfulJoy,#ChildrensPlaydate,22,45,355,15-12-20,15:45:00
+357,Enveloped in serenity while practicing mindfulness by the lake.,Mindfulness,#Mindfulness,#LakeTranquility,35,70,356,20-10-17,08:15:00
+358,Chasing dreams like a kite soaring high in the vast open sky.,DreamChaser,#DreamChaser,#SkyHighDreams,30,60,357,28-02-21,13:00:00
+359,Spellbound by the elegance of a ballroom dance under crystal chandeliers.,Elegance,#Elegance,#BallroomDance,28,55,358,12-06-18,20:30:00
+360,Whimsical delight in a world of fairy tales and magical creatures.,Whimsy,#Whimsy,#MagicalWorld,20,40,359,08-03-16,14:20:00
+361,Pensive contemplation amid the ancient ruins of a forgotten civilization.,Pensive,#Pensive,#AncientCivilization,18,35,360,18-04-23,17:10:00
+362,Embracing the thrill of speed on a rollercoaster's exhilarating twists.,Thrill,#Thrill,#RollercoasterAdventure,22,45,361,25-07-20,12:45:00
+363,Harmony resonates as musicians play a melody of unity and togetherness.,Harmony,#Harmony,#MusicalUnity,35,70,362,30-11-19,19:30:00
+364,A burst of creativity in the quiet solitude of an artist's studio.,Creativity,#Creativity,#ArtistsHaven,15,30,363,01-09-15,16:00:00
+365,Radiant joy akin to blooming flowers on a sun-kissed spring morning.,Radiance,#Radiance,#SpringBlooms,25,50,364,05-05-22,10:15:00
+366,A sense of wonder at the vastness of the cosmos on a stargazing night.,Wonder,#Wonder,#StargazingAdventure,40,80,365,08-07-18,23:00:00
+367,Rejuvenated by the salty breeze and the sound of waves at the seaside.,Rejuvenation,#Rejuvenation,#SeasideEscape,18,35,366,20-09-21,14:30:00
+368,Whispers of inspiration from the rustling leaves in a serene forest.,Inspiration,#Inspiration,#ForestWhispers,28,55,367,15-11-16,11:45:00
+369,Savoring the warmth of a cup of cocoa on a chilly winter evening.,Coziness,#Coziness,#WarmWinterEvening,30,60,130,12-01-20,18:00:00
+370,Heartfelt gratitude for the laughter shared during a family reunion.,Gratitude,#Gratitude,#FamilyLaughter,22,45,369,28-12-17,19:15:00
+371,"Embarking on a culinary adventure, savoring exotic flavors around the world.",Adventure,#Adventure,#CulinaryJourney,35,70,370,02-03-19,20:20:00
+372,Euphoria floods in as the final puzzle piece clicks into place.,Euphoria,#Euphoria,#PuzzleCompletion,20,40,371,08-06-22,15:30:00
+373,Awe-inspired by the grandeur of an ancient cathedral's intricate architecture.,Awe,#Awe,#ArchitecturalGrandeur,18,35,372,18-08-18,14:45:00
+374,Captivated by the ethereal beauty of a field filled with fireflies.,Enchantment,#Enchantment,#FireflyField,25,50,353,10-08-22,22:00:00
+375,Immersed in the enchanting melodies of a street musician's violin.,Melodic,#Melodic,#StreetMusic,18,35,374,05-04-19,17:30:00
+376,Joyful laughter resonates through a lively summer carnival.,FestiveJoy,#FestiveJoy,#SummerCarnival,22,45,375,15-12-20,15:45:00
+377,Exploring the universe within during a mindful meditation session.,InnerJourney,#InnerJourney,#MeditationBliss,35,70,376,20-10-17,08:15:00
+378,Soaring like a free spirit on the winds of a coastal cliff.,Freedom,#Freedom,#CoastalAdventure,30,60,377,28-02-21,13:00:00
+379,Dazzled by the elegance of a masquerade ball's dazzling costumes.,Dazzle,#Dazzle,#MasqueradeElegance,28,55,378,12-06-18,20:30:00
+380,Whimsical delight in a world of whimsical fairy tales.,Whimsy,#Whimsy,#FairyTaleMagic,20,40,379,08-03-16,14:20:00
+381,Reflective contemplation amid the ruins of a forgotten era.,Reflection,#Reflection,#ForgottenEra,18,35,360,18-04-23,17:10:00
+382,Riding the adrenaline rush on a rollercoaster's wild twists.,Adrenaline,#Adrenaline,#RollercoasterThrills,22,45,381,25-07-20,12:45:00
+383,Harmony resonates as musicians play a symphony of unity.,Harmony,#Harmony,#MusicalUnity,35,70,362,30-11-19,19:30:00
+384,A burst of artistic creativity in the quietude of an artist's studio.,ArtisticBurst,#ArtisticBurst,#StudioCreativity,15,30,363,01-09-15,16:00:00
+385,Radiant joy akin to blossoming flowers on a sunlit spring morning.,Radiance,#Radiance,#SpringBlooms,25,50,364,05-05-22,10:15:00
+386,Awe-inspired by the vastness of the cosmos on a stargazing night.,Wonder,#Wonder,#StargazingAdventure,40,80,365,08-07-18,23:00:00
+387,Whispers of inspiration from the rustling leaves in a serene forest.,Inspiration,#Inspiration,#ForestWhispers,28,55,367,15-11-16,11:45:00
+388,"Embarking on a culinary odyssey, savoring flavors around the world.",CulinaryOdyssey,#CulinaryOdyssey,#FlavorsAroundTheWorld,35,70,370,02-03-19,20:20:00
+389,Euphoria floods in as the final puzzle piece fits perfectly.,Euphoria,#Euphoria,#PerfectPuzzle,20,40,371,08-06-22,15:30:00
+390,Awe-struck by the grandeur of an ancient cathedral's intricate architecture.,Awe,#Awe,#ArchitecturalGrandeur,18,35,372,18-08-18,14:45:00
+391,Curiosity awakened by the mysteries of an ancient archaeological site.,Curiosity,#Curiosity,#AncientMysteries,18,35,352,08-11-15,10:00:00
+392,Giddy with excitement as the first snowflakes dance from the sky.,Excitement,#Excitement,#SnowfallMagic,22,45,391,02-12-20,17:30:00
+393,Contentment envelops as the aroma of freshly baked bread fills the air.,Contentment,#Contentment,#FreshBreadAroma,28,55,392,10-06-17,12:15:00
+394,Inspired by the resilience of a lone tree standing tall in a storm.,Resilience,#Resilience,#StandingTall,35,70,393,15-04-21,14:20:00
+395,"Lost in the pages of a captivating novel, transported to another world.",Immersion,#Immersion,#CaptivatingNovel,20,40,394,28-09-19,19:45:00
+396,Drenched in nostalgia while flipping through an old family photo album.,Nostalgia,#Nostalgia,#FamilyPhotoAlbum,25,50,395,05-12-16,21:00:00
+397,Spark of inspiration ignites like a shooting star in the night sky.,Spark,#Spark,#InspirationIgnited,30,60,396,10-02-18,23:30:00
+398,Imbued with gratitude for the simple pleasure of a warm cup of tea.,Gratitude,#Gratitude,#WarmTea,18,35,397,15-02-23,08:30:00
+399,Marveling at the kaleidoscope of colors in a vibrant street market.,Marvel,#Marvel,#ColorfulStreetMarket,22,45,398,22-08-15,15:00:00
+400,Awash with serenity as the sun sets over a tranquil lakeside retreat.,Serenity,#Serenity,#TranquilSunset,28,55,399,20-11-20,18:45:00
+401,Drowning in sorrow as memories of lost love resurface.,Heartbreak,#Heartbreak,#LostLove,15,30,400,05-08-19,21:00:00
+402,Numbness sets in as the weight of loneliness grows heavier.,Loneliness,#Loneliness,#HeavyHeart,18,35,401,12-02-21,16:45:00
+403,"Tears fall like raindrops, mourning the end of a cherished friendship.",Grief,#Grief,#LostFriendship,22,45,402,28-11-20,14:20:00
+404,"Despair clouds the mind, feeling adrift in an endless sea of darkness.",Despair,#Despair,#EndlessDarkness,28,55,403,15-05-16,22:30:00
+405,"Shattered by betrayal, trust crumbles like fragile glass.",Betrayal,#Betrayal,#ShatteredTrust,22,45,404,10-09-18,13:15:00
+406,"Aching heart, the symphony of pain plays in the silence of solitude.",Suffering,#Suffering,#HeartacheSymphony,25,50,405,20-03-22,19:30:00
+407,"Emotional storm, a whirlwind of sadness engulfs every thought.",EmotionalStorm,#EmotionalStorm,#SadnessWhirlwind,30,60,406,18-07-17,17:45:00
+408,"Haunted by regrets, the ghost of the past lingers relentlessly.",Regret,#Regret,#HauntedPast,18,35,407,15-12-18,10:00:00
+409,"Torn apart by grief, the echoes of loss reverberate through the soul.",Grief,#Grief,#TornApart,28,55,408,28-06-15,21:15:00
+410,"Isolation deepens, an emotional winter where warmth is but a distant memory.",Isolation,#Isolation,#EmotionalWinter,35,70,409,02-04-20,14:20:00
+411,"Soul-crushing disappointment, hopes shattered like fragile glass.",Disappointment,#Disappointment,#CrushedHopes,20,40,410,08-10-19,18:30:00
+412,"Painful echoes of a love once cherished, now lost in the abyss of time.",LostLove,#LostLove,#PainfulEchoes,22,45,411,22-11-16,09:45:00
+413,"Heartache deepens, a solitary journey through the abyss of despair.",Despair,#Despair,#AbyssOfHeartache,40,80,412,18-08-22,22:00:00
+414,"Melancholy lingers, a bittersweet serenade in the quietude of solitude.",Melancholy,#Melancholy,#QuietSerenade,18,35,413,12-03-17,23:30:00
+415,"Bitterness like a poison, seeping into every crevice of the wounded heart.",Bitterness,#Bitterness,#WoundedHeart,25,50,414,15-12-15,16:15:00
+416,"Emotional exhaustion, the weight of the world crushing weary shoulders.",Exhaustion,#Exhaustion,#CrushedSpirit,35,70,415,05-09-21,13:30:00
+417,"Sorrowful echoes, a symphony of pain played by the strings of loss.",Sorrow,#Sorrow,#SymphonyOfLoss,18,35,416,22-05-18,20:45:00
+418,"Darkness descends, engulfing the soul in the shadows of despair.",Darkness,#Darkness,#SoulEngulfed,28,55,417,10-07-16,18:20:00
+419,"Desperation whispers, the silent plea for a glimmer of hope in the abyss.",Desperation,#Desperation,#GlimmerOfHope,22,45,418,30-04-19,14:00:00
+420,"Heart in ruins, the remnants of shattered dreams scattered in the wind.",Ruins,#Ruins,#ShatteredDreams,20,40,419,08-01-22,11:30:00
+421,"Shattered by the echoes of a shattered dream, fragments of hope scattered.",Desolation,#Desolation,#ScatteredHope,20,40,420,10-09-17,19:15:00
+422,"Avoiding the thorns of regret, walking barefoot on the path of remorse.",Regret,#Regret,#PathOfRemorse,25,50,421,18-04-22,11:30:00
+423,"In the labyrinth of grief, the walls echo with the footsteps of lost joy.",Grief,#Grief,#LostJoyFootsteps,18,35,422,05-12-18,21:45:00
+424,"A soul adrift in the sea of solitude, waves of loneliness crashing relentlessly.",Loneliness,#Loneliness,#CrashingWaves,22,45,423,28-06-16,14:20:00
+425,"The bitterness of betrayal, a taste that lingers, staining the palate of trust.",Bitterness,#Bitterness,#StainedTrust,15,30,424,22-10-19,17:00:00
+426,"In the ruins of hope, echoes of shattered dreams whisper tales of loss.",Desolation,#Desolation,#WhisperedLoss,28,55,425,15-03-21,22:45:00
+427,"Sinking like a stone in the ocean of heartbreak, each ripple a sigh of despair.",Heartbreak,#Heartbreak,#RippleOfDespair,22,45,426,10-08-17,19:30:00
+428,"Tears, the ink staining the pages of a journal, a testament to silent grief.",Grief,#Grief,#SilentTears,30,60,427,28-01-23,14:30:00
+429,"In the wasteland of lost trust, the echoes of broken promises reverberate.",Betrayal,#Betrayal,#ReverberatingPromises,25,50,428,12-12-16,10:00:00
+430,"Avoiding the shards of shattered dreams, walking the tightrope of resilience.",Resilience,#Resilience,#TightropeWalk,35,70,429,18-07-20,15:15:00
+431,"Suffocating in the silence of solitude, where echoes of laughter once thrived.",Isolation,#Isolation,#SilentSolitude,30,60,430,20-05-22,20:30:00
+432,"Haunted by the specter of lost possibilities, a ghost that refuses to fade away.",Regret,#Regret,#FadingPossibilities,18,35,431,08-11-19,14:45:00
+433,"In the labyrinth of despair, the echoes of a broken heart reverberate endlessly.",Despair,#Despair,#EndlessReverberation,28,55,432,28-03-17,22:00:00
+434,"Sinking like autumn leaves in the river of sorrow, carried away by the current.",Sorrow,#Sorrow,#AutumnLeaves,22,45,433,15-09-20,18:15:00
+435,"In the garden of broken dreams, petals fall, a silent testimony to shattered hopes.",Desolation,#Desolation,#ShatteredHopes,20,40,434,10-06-18,13:30:00
+436,"Tears, the currency of grief, spent in the marketplace of lost love and longing.",Grief,#Grief,#LostLoveLonging,25,50,435,22-12-16,21:45:00
+437,"Wandering in the maze of betrayal, the walls closing in with every wrong turn.",Betrayal,#Betrayal,#ClosingWalls,15,30,436,05-01-21,16:20:00
+438,"A soul weathered by the storm of heartbreak, seeking refuge in the calm after.",Heartbreak,#Heartbreak,#CalmAfterStorm,22,45,437,18-04-19,11:00:00
+439,"In the tapestry of despair, threads of hope unravel, leaving a portrait of sorrow.",Despair,#Despair,#UnraveledHope,18,35,438,28-08-17,19:30:00
+440,"Like a withered rose in the garden of love, petals fall, a silent surrender to time.",Loss,#Loss,#SilentSurrender,28,55,439,10-02-23,14:30:00
+441,"In the void of heartache, echoes of a love song play, each note a pang of longing.",Heartache,#Heartache,#LoveSongLonging,30,60,440,10-07-22,22:15:00
+442,"Nostalgia, a bittersweet dance in the moonlit ballroom of cherished memories.",Nostalgia,#Nostalgia,#CherishedMemories,18,35,441,15-05-19,21:30:00
+443,"In the symphony of grief, each tear is a note, composing a melancholic melody.",Grief,#Grief,#MelancholicMelody,22,45,442,28-11-18,14:00:00
+444,"Betrayal, a venomous serpent slithering through the garden of trust, poisoning roots.",Betrayal,#Betrayal,#PoisonedTrust,25,50,443,02-03-21,17:45:00
+445,"Sinking in the quicksand of despair, the harder you fight, the deeper you descend.",Despair,#Despair,#DeepDescent,20,40,444,18-10-16,19:30:00
+446,"Wandering through the cemetery of lost dreams, tombstones marking untold sorrows.",Desolation,#Desolation,#UntoldSorrows,28,55,445,15-08-20,12:30:00
+447,"Swept away by the river of regret, the currents of the past refusing to release.",Regret,#Regret,#PastCurrents,18,35,446,28-04-17,16:20:00
+448,"Whispers of lost love linger in the attic of the heart, forgotten but not erased.",Loss,#Loss,#ForgottenLove,22,45,447,10-09-19,21:00:00
+449,"In the gallery of broken promises, each shattered vow framed, a painful exhibition.",Betrayal,#Betrayal,#ShatteredVows,15,30,448,28-01-22,13:45:00
+450,"The echoes of solitude, a silent conversation between a soul and its shadows.",Solitude,#Solitude,#ShadowConversation,30,60,449,15-06-16,22:30:00
+451,"Dancing on sunshine, each step a celebration of the joy found in simple moments.",Joy,#Joy,#SimpleMoments,40,80,450,20-08-21,15:45:00
+452,"Laughter echoes in the air, a chorus of happiness that lifts the spirit higher.",Happiness,#Happiness,#SpiritLifter,35,70,430,12-04-18,18:30:00
+453,"In the garden of contentment, each bloom whispers tales of inner peace and joy.",Contentment,#Contentment,#InnerPeace,25,50,452,15-02-22,12:20:00
+454,"Chasing dreams under the vibrant sky, a journey fueled by hope and enthusiasm.",Enthusiasm,#Enthusiasm,#HopefulJourney,30,60,453,28-10-19,14:15:00
+455,"Serenading the stars with a heart full of gratitude, a melody of thankfulness.",Gratitude,#Gratitude,#ThankfulMelody,22,45,454,22-12-17,21:00:00
+456,"Basking in the glow of accomplishment, each milestone a stepping stone to happiness.",Accomplishment,#Accomplishment,#HappinessMilestone,28,55,455,10-06-20,17:30:00
+457,"In the dance of positivity, every step is a rhythm, uplifting the soul in harmony.",Positivity,#Positivity,#SoulUpliftment,18,35,456,18-09-16,19:45:00
+458,"Overflowing with joy, a cup of laughter shared with friends, a moment cherished.",Joy,#Joy,#CherishedMoment,20,40,457,10-03-23,14:30:00
+459,"Draped in the warmth of kindness, a quilt of compassion stitched with love.",Kindness,#Kindness,#LoveStitches,25,50,458,05-05-19,12:15:00
+460,"In the garden of friendships, each bloom a testament to the beauty of camaraderie.",Friendship,#Friendship,#CamaraderieBlooms,30,60,459,28-08-18,16:00:00
+461,"In the embrace of love, each heartbeat is a melody, dancing to the rhythm of affection.",Love,#Love,#RhythmOfAffection,35,70,460,15-11-22,20:45:00
+462,"Surrounded by the colors of joy, a canvas painted with laughter and endless smiles.",Joy,#Joy,#EndlessSmiles,40,80,461,02-07-19,17:00:00
+463,"In the symphony of excitement, each note is a burst of energy, igniting the soul with fervor.",Excitement,#Excitement,#IgnitedSoul,30,60,462,18-04-21,14:20:00
+464,"A surprise gift, wrapped in anticipation, unfolds a moment of delight and wonder.",Surprise,#Surprise,#WonderfulMoment,25,50,463,05-02-23,19:30:00
+465,"Lost in the maze of curiosity, each twist and turn unveils the treasures of discovery.",Curiosity,#Curiosity,#TreasuresOfDiscovery,22,45,464,22-09-18,12:45:00
+466,"Floating on clouds of gratitude, each raindrop a blessing, a shower of thankfulness.",Gratitude,#Gratitude,#ShowerOfThankfulness,28,55,465,10-12-16,21:15:00
+467,"Like a comet of inspiration, streaking through the sky of creativity, leaving trails of brilliance.",Inspiration,#Inspiration,#BrilliantTrails,18,35,466,28-05-20,16:00:00
+468,"In the celebration of success, fireworks of accomplishment light up the night sky of triumph.",Success,#Success,#NightSkyTriumph,22,45,467,15-11-17,22:30:00
+469,"A symphony of laughter, each note a key to unlocking the door of boundless happiness.",Happiness,#Happiness,#BoundlessLaughter,30,60,468,02-08-21,19:00:00
+470,"In the carnival of emotions, the rollercoaster of thrill sends the heart on a wild ride.",Thrill,#Thrill,#WildHeartRide,35,70,469,28-03-19,15:30:00
+471,"Standing before the grandeur of the Eiffel Tower, a moment to reflect on the beauty of Parisian dreams.",Reflection,#Reflection,#ParisianDreams,28,55,470,12-05-18,17:30:00
+472,"Lost in the enchantment of Disneyland, each ride a journey into the realm of childhood fantasies.",Enchantment,#Enchantment,#ChildhoodFantasies,30,60,471,28-09-22,15:45:00
+473,"Exploring the wonders of Ferrari World, the roar of engines creating a symphony of speed.",Excitement,#Excitement,#SymphonyOfSpeed,22,45,472,10-11-19,14:00:00
+474,"Amidst the tulip fields of Keukenhof, a tapestry of colors that paints the soul with springtime joy.",Joy,#Joy,#SpringtimeColors,35,70,473,02-04-21,18:20:00
+475,"Wandering through the historical streets of Kyoto, each step a journey into the heart of Japan's traditions.",Exploration,#Exploration,#JapaneseTraditions,18,35,474,22-08-17,21:30:00
+476,"In the embrace of the Grand Canyon, nature's masterpiece, a moment to marvel at Earth's grandeur.",Awe,#Awe,#EarthsGrandeur,25,50,475,15-06-20,16:45:00
+477,"Journeying through the serenity of Santorini, where each sunset paints the sky with hues of tranquility.",Serenity,#Serenity,#SunsetHues,22,45,476,10-09-16,19:15:00
+478,"Amazed by the architectural marvels of Petra, each stone telling tales of an ancient civilization.",Amazement,#Amazement,#AncientTales,30,60,477,28-01-23,13:00:00
+479,"Embarking on a gondola ride in Venice, each canal reflecting the romance of this timeless city.",Romance,#Romance,#TimelessCity,20,40,478,18-04-19,16:30:00
+480,"At the summit of Machu Picchu, a breathtaking panorama that whispers the secrets of ancient civilizations.",Awe,#Awe,#AncientCivilizations,28,55,479,05-11-17,22:00:00
+481,"In the heart of New York City, Times Square dazzles with lights, a vibrant spectacle of urban energy.",Excitement,#Excitement,#UrbanEnergy,35,70,480,20-07-22,21:45:00
+482,"Captivated by the historical charm of the Colosseum, each stone echoing tales of gladiator valor.",Captivation,#Captivation,#GladiatorTales,25,50,481,15-03-18,17:30:00
+483,"Sailing the azure waters of the Maldives, each wave a whisper of serenity in paradise.",Serenity,#Serenity,#ParadiseWhispers,22,45,482,28-10-19,14:15:00
+484,"In the midst of the Amazon rainforest, a symphony of wildlife creates an orchestra of nature's wonders.",Wonder,#Wonder,#NatureOrchestra,30,60,483,10-06-21,16:00:00
+485,"Walking the Great Wall of China, each step a testament to ancient engineering marvels.",Awe,#Awe,#EngineeringMarvels,18,35,484,18-08-17,19:30:00
+486,"At the summit of Mount Fuji, a breathtaking sunrise that paints the sky with hues of accomplishment.",Accomplishment,#Accomplishment,#SunriseHues,28,55,485,15-04-20,05:30:00
+487,"Exploring the ancient ruins of Angkor Wat, each stone whispering stories of Khmer civilization.",Exploration,#Exploration,#KhmerStories,20,40,486,22-11-16,13:00:00
+488,"Skiing down the slopes of the Swiss Alps, each turn a dance with the majesty of snow-capped peaks.",Adventure,#Adventure,#SnowPeakDance,22,45,487,10-01-19,14:45:00
+489,"In the tranquility of Kyoto's bamboo forest, whispers of ancient Zen wisdom echo through the groves.",Tranquility,#Tranquility,#ZenWisdom,25,50,488,28-02-23,16:20:00
+490,"Cruising the fjords of Norway, each icy landscape a breathtaking masterpiece of nature's grandeur.",Grandeur,#Grandeur,#IcyMasterpiece,22,45,489,28-05-18,18:30:00
+491,"At the front row of Adele's concert, each note of 'Someone Like You' resonates with soul-stirring emotion.",Emotion,#Emotion,#AdeleConcert,40,80,490,15-09-22,20:00:00
+492,"Dancing under the stars at Beyonce's live show, feeling the power of 'Single Ladies' in every move.",Energy,#Energy,#BeyonceConcert,35,70,491,28-07-19,21:30:00
+493,"In the crowd of a Taylor Swift concert, the lyrics of 'Love Story' create an enchanting fairy tale.",Enchantment,#Enchantment,#TaylorSwift,30,60,492,10-05-21,19:45:00
+494,"Rocking out to the guitar solos at a Queen tribute concert, a journey back in time with Freddie's spirit.",Nostalgia,#Nostalgia,#QueenTribute,22,45,493,02-12-18,22:15:00
+495,"Swaying to Ed Sheeran's acoustic melodies, a serene evening filled with 'Perfect' moments.",Serenity,#Serenity,#EdSheeranConcert,18,35,494,18-08-20,19:00:00
+496,"Immersed in the pulsating beats of a Bruno Mars concert, where 'Uptown Funk' becomes a city of joy.",Joy,#Joy,#BrunoMars,28,55,495,28-03-17,20:30:00
+497,"At a Michael Jackson tribute show, moonwalking through the hits, a celebration of the King of Pop.",Celebration,#Celebration,#MJTribute,25,50,496,15-01-22,21:15:00
+498,"Swinging to the rhythms of a Frank Sinatra tribute, feeling the timeless charm of 'Fly Me to the Moon'.",Charm,#Charm,#SinatraTribute,22,45,497,10-06-19,18:45:00
+499,"In the mosh pit of a Metallica concert, the thunderous chords create a symphony of headbanging ecstasy.",Ecstasy,#Ecstasy,#MetallicaConcert,35,70,498,20-03-23,22:30:00
+500,"Experiencing the magic of a Coldplay concert, where 'Fix You' becomes a beacon of hope in the night.",Hope,#Hope,#ColdplayMagic,30,60,499,28-11-16,19:00:00
+501,"At a Justin Bieber concert, the infectious beats of 'Baby' create a dance floor of unbridled enthusiasm.",Enthusiasm,#Enthusiasm,#JustinBieber,40,80,500,05-08-18,20:00:00
+502,"In the spotlight at a Lady Gaga show, each costume change is a metamorphosis of creativity and artistry.",Creativity,#Creativity,#LadyGaga,35,70,501,15-04-21,21:30:00
+503,"Immersed in the soulful melodies of Adele, tears flow freely, moved by the emotion of 'Hello'.",Emotion,#Emotion,#AdeleMelodies,30,60,502,28-11-19,19:45:00
+504,"Drenched in confetti at a Katy Perry concert, a kaleidoscope of colors igniting the night sky.",Colorful,#Colorful,#KatyPerry,22,45,503,22-06-20,22:00:00
+505,"In the audience of a Jay-Z performance, the lyrics of 'Empire State of Mind' become an anthem of pride.",Pride,#Pride,#JayZAnthem,18,35,504,10-09-17,20:15:00
+506,"Dancing to Shakira's rhythmic beats, hips swaying to the hypnotic charm of 'Hips Don't Lie'.",Hypnotic,#Hypnotic,#ShakiraRhythms,28,55,505,28-02-22,21:15:00
+507,"At a U2 concert, the anthemic chords of 'With or Without You' create a timeless moment of connection.",Connection,#Connection,#U2Anthem,25,50,506,15-05-16,19:30:00
+508,"Rocking out at a Guns N' Roses show, the iconic riffs of 'Sweet Child o' Mine' echoing in the night.",Iconic,#Iconic,#GNRConcert,22,45,507,10-12-18,22:30:00
+509,"In the crowd of an Ariana Grande concert, the high notes of 'Into You' create a euphoric symphony.",Euphoria,#Euphoria,#ArianaGrande,35,70,508,22-01-23,20:00:00
+510,"Swaying to the reggae vibes of Bob Marley's tribute concert, each chord a journey to Jamaica's soul.",Journey,#Journey,#BobMarleyTribute,30,60,509,05-03-20,18:45:00
+511,"Captivated by the spellbinding plot twists, the audience applauds, experiencing a rollercoaster of emotions at the movie premiere.",Excitement,#Excitement,#MoviePremiereThrills,40,80,510,12-10-18,20:00:00
+512,"As the credits roll, a profound sense of nostalgia washes over, reminiscent of cherished moments in classic films.",Nostalgia,#Nostalgia,#ClassicFilmMoments,35,70,511,25-06-19,22:15:00
+513,"Streaming the latest web series, the viewer is engrossed in the characters' journey, feeling a sense of connection and empathy.",Engagement,#Engagement,#WebSeriesJourney,30,60,512,08-07-20,19:30:00
+514,"At the film festival, the indie filmmaker's creation receives a standing ovation, evoking pride and a sense of accomplishment.",Pride,#Pride,#IndieFilmSuccess,22,45,513,18-09-17,21:45:00
+515,"Watching a heartwarming family drama, tears flow freely as the characters overcome challenges, leaving the viewer with a warm glow.",Touched,#Touched,#FamilyDramaMoments,28,55,514,15-01-21,18:00:00
+516,"At the Oscars, the actor graciously accepts an award, radiating joy and gratitude for the recognition of their outstanding performance.",Gratitude,#Gratitude,#OscarWinningMoment,18,35,515,28-02-16,20:30:00
+517,"Discovering a hidden gem in the world of documentaries, the viewer is enlightened and inspired, feeling a renewed sense of curiosity.",Inspiration,#Inspiration,#HiddenGemDiscovery,22,45,516,20-04-22,17:30:00
+518,"As the movie credits roll, the viewer experiences a mix of awe and contemplation, pondering the deeper meanings woven into the storyline.",Contemplation,#Contemplation,#DeepMeanings,28,55,517,05-11-19,21:15:00
+519,"Binge-watching a thrilling crime series, the suspense keeps the viewer on the edge of their seat, creating a rush of adrenaline.",Suspense,#Suspense,#CrimeSeriesThrills,35,70,518,12-07-15,22:00:00
+520,"As the closing scene unfolds, a sense of satisfaction washes over, completing the cinematic journey with a profound and fulfilling ending.",Satisfaction,#Satisfaction,#FulfillingEnding,22,45,519,10-09-20,19:45:00
+521,"Celebrating a historic victory in the World Cup, the nation erupts in joy, united by the triumph of their football team.",Joy,#Joy,#WorldCupTriumph,40,80,520,15-07-18,21:30:00
+522,"At the Olympics, the athlete's perseverance shines through, earning a gold medal and inspiring a generation with their remarkable achievement.",Inspiration,#Inspiration,#OlympicAchievement,35,70,521,08-08-20,19:45:00
+523,"In the cricket championship, a nail-biting finish leaves fans on the edge of their seats, experiencing a rollercoaster of emotions.",Excitement,#Excitement,#CricketChampionship,30,60,522,25-06-19,22:15:00
+524,"Witnessing a record-breaking marathon, spectators are filled with awe and admiration for the endurance and dedication of the runners.",Admiration,#Admiration,#MarathonRecords,22,45,523,07-11-21,17:30:00
+525,"In the tennis grand slam, a fierce rivalry unfolds, captivating fans with a display of skill and sportsmanship on the world stage.",Captivation,#Captivation,#TennisRivalry,28,55,524,10-09-17,20:15:00
+526,"Cheering for the underdog in the basketball finals, the crowd erupts in applause as the team defies odds to claim the championship title.",Triumph,#Triumph,#BasketballFinals,18,35,525,20-06-22,21:00:00
+527,"At the golf tournament, the golfer's precision and focus lead to a stunning victory, leaving spectators in awe of their exceptional skill.",Awe,#Awe,#GolfVictory,22,45,526,10-04-16,18:30:00
+528,"Experiencing the thrill of a high-speed Formula 1 race, fans are on the edge of their seats as drivers compete for the championship.",Thrill,#Thrill,#Formula1Championship,28,55,527,24-11-19,19:45:00
+529,"In the cycling world championship, the climber conquers challenging terrains, symbolizing determination and achievement against all odds.",Determination,#Determination,#CyclingChampion,35,70,528,28-09-15,22:30:00
+530,"Witnessing a heartwarming comeback in the hockey finals, fans share tears of joy as the team secures a historic victory after adversity.",Heartwarming,#Heartwarming,#HockeyFinalsComeback,22,45,529,12-12-20,20:00:00
+531,"After a series of defeats, the soccer team faces disappointment, struggling to find the silver lining in a challenging season.",Disappointment,#Disappointment,#SoccerDefeats,40,80,530,02-11-19,18:45:00
+532,"In the tennis tournament, a highly anticipated player experiences a setback, leaving fans in shock and questioning the unforeseen turn of events.",Frustration,#Frustration,#TennisSetback,35,70,531,10-07-18,21:15:00
+533,"Facing a defeat in the championship, the boxer reflects on the challenges, vowing to return stronger and more determined in the next bout.",Reflection,#Reflection,#BoxingDefeat,30,60,532,18-09-20,19:30:00
+534,"In the midst of a cycling race, a tire blowout leads to frustration for the cyclist, who valiantly tries to overcome the unexpected obstacle.",Obstacle,#Obstacle,#CyclingFrustration,22,45,533,15-05-17,22:00:00
+535,"The gymnast's unexpected fall during a routine sparks a wave of sympathy from the audience, highlighting the vulnerability of sports.",Sympathy,#Sympathy,#GymnasticsFall,28,55,534,05-04-21,20:15:00
+536,"In the golf tournament, a missed crucial putt results in defeat, causing the golfer to reflect on the pressure of high-stakes competition.",Pressure,#Pressure,#GolfDefeat,18,35,535,20-08-16,18:30:00
+537,"Experiencing a series of losses in the basketball season, the team grapples with frustration, determined to turn the tide with renewed effort.",Renewed Effort,#RenewedEffort,#BasketballStruggles,22,45,536,12-02-19,19:45:00
+538,"Despite meticulous training, the swimmer faces disappointment as a split-second miscalculation costs them the lead in a crucial race.",Miscalculation,#Miscalculation,#SwimmingDisappointment,28,55,537,28-06-15,20:00:00
+539,"The weightlifter's failed attempt at a personal record results in frustration, highlighting the challenging nature of pushing physical limits.",Challenge,#Challenge,#WeightliftingFailure,35,70,538,08-01-22,21:30:00
+540,"In the midst of a soccer match, an unexpected own goal creates a moment of despair for the player, as teammates console and encourage them.",Despair,#Despair,#OwnGoal,22,45,539,15-12-18,20:15:00
+541,"In the serene beauty of a sunset, nature unfolds a canvas of colors, evoking a sense of tranquility and wonder.",Tranquility,#Tranquility,#SunsetBeauty,40,80,540,10-07-21,19:00:00
+542,"Embarking on a spontaneous road trip, the traveler discovers hidden gems, creating memories that will be cherished for a lifetime.",Adventure,#Adventure,#RoadTripMemories,35,70,541,28-09-19,20:30:00
+543,"Amidst the bustling city, a quiet cafe becomes a sanctuary for reflection, where a cup of coffee brings solace to the wandering mind.",Solace,#Solace,#CafeReflection,30,60,542,15-03-22,18:45:00
+544,"Exploring the vibrant street art of a cultural neighborhood, each mural tells a story, infusing the city with creativity and expression.",Creativity,#Creativity,#StreetArtVibes,22,45,543,05-11-17,21:15:00
+545,"In the world of science, a breakthrough discovery unfolds, pushing the boundaries of knowledge and opening new frontiers of exploration.",Breakthrough,#Breakthrough,#ScientificDiscovery,28,55,544,20-05-20,16:30:00
+546,"Connecting with the melody of a live orchestra, the music enthusiast experiences a symphony that resonates deep within the soul.",Harmony,#Harmony,#OrchestraMelody,18,35,545,22-08-16,19:45:00
+547,"Embracing the aroma of freshly baked bread, the home chef finds joy in the art of baking, creating delicious memories for loved ones.",Joy in Baking,#JoyInBaking,#HomemadeDelights,22,45,546,10-04-23,17:15:00
+548,"Wandering through a historical museum, the history enthusiast becomes immersed in the tales of the past, envisioning bygone eras.",Envisioning History,#EnvisioningHistory,#MuseumTales,28,55,547,18-12-15,18:00:00
+549,"In the realm of literature, a captivating novel transports the reader to distant lands, weaving a tapestry of imagination and escape.",Imagination,#Imagination,#LiteraryEscape,35,70,548,08-10-21,20:30:00
+550,"Capturing the essence of a bustling market, the photographer freezes moments in time, each frame telling a unique and vibrant story.",Vibrancy,#Vibrancy,#MarketStories,22,45,549,22-03-19,21:45:00
+551,"Underneath the city lights, the dancer expresses emotions through graceful movements, creating a mesmerizing performance under the night sky.",Mesmerizing,#Mesmerizing,#NightDancePerformance,40,80,550,15-06-18,22:00:00
+552,"In the heart of a bustling market, the street food connoisseur indulges in a culinary adventure, savoring diverse flavors and aromas.",Culinary Adventure,#CulinaryAdventure,#StreetFoodDelights,35,70,551,28-08-19,19:30:00
+553,"As the first snowflake descends, the winter enthusiast eagerly prepares for a season of frosty delights, anticipating the magic of snow-covered landscapes.",Winter Magic,#WinterMagic,#SnowyLandscapes,30,60,552,01-12-22,17:45:00
+554,"Amidst the pages of a captivating mystery novel, the reader unravels clues and secrets, experiencing a thrilling journey of suspense and revelation.",Thrilling Journey,#ThrillingJourney,#MysteryNovel,22,45,553,10-04-17,21:15:00
+555,"Surrounded by the vibrant colors of a flower garden, the gardener nurtures blossoms, finding joy in the beauty of nature's ever-changing canvas.",Nature's Beauty,#NaturesBeauty,#FloralJoy,28,55,554,15-05-20,18:30:00
+556,"At the astronomy observatory, the stargazer marvels at the vastness of the cosmos, contemplating the mysteries hidden within the celestial expanse.",Celestial Wonder,#CelestialWonder,#Stargazing,18,35,555,22-09-16,20:00:00
+557,"Engulfed in the aroma of freshly brewed coffee, the writer finds inspiration in every sip, embarking on a journey of creativity and prose.",Creative Inspiration,#CreativeInspiration,#CoffeeJourney,22,45,556,12-02-23,19:45:00
+558,"In the realm of fashion, the designer unveils a collection that tells a story, blending innovation and tradition on the runway of creativity.",Runway Creativity,#RunwayCreativity,#FashionInnovation,28,55,557,10-11-15,21:00:00
+559,"As the waves crash against the shore, the surfer embraces the thrill of riding the ocean's energy, capturing the essence of freedom in each wave.",Ocean's Freedom,#OceansFreedom,#SurfingThrills,22,45,558,20-07-21,18:15:00
+560,"Exploring the historical architecture of an ancient city, the traveler is transported to a bygone era, where each monument whispers tales of the past.",Whispers of the Past,#WhispersOfThePast,#HistoricalTour,35,70,559,18-04-19,20:30:00
+561,Successfully avoided eye contact with my crush in the hallway. Mission accomplished. #TeenCrush #StealthMode,Excitement,#CrushStruggles,#AvoidingEyeContact,15,30,560,20-05-23,19:45:00
+562,Ran out of snacks during a movie marathon. Crisis level: Emergency! #MovieNightStruggles #TeenProblems,Boredom,#SnackCrisis,#TeenLife,18,35,561,21-05-23,21:00:00
+563,Spent an hour choosing the perfect filter for a selfie. The struggle for that Instagram aesthetic is real. #SelfieQueen #TeenVibes,Joy,#SelfieStruggle,#TeenConfessions,22,45,562,22-05-23,14:30:00
+564,Lost my headphones again. How do they vanish into thin air? #HeadphoneMystery #TeenLife,Frustration,#TeenProblems,#LostHeadphones,20,40,563,23-05-23,16:45:00
+565,Decided to study for exams but ended up making memes about studying instead. Procrastination level: Expert. #ProcrastinationNation #TeenConfessions,Surprise,#StudyingMemes,#TeenLife,25,50,564,24-05-23,13:15:00
+566,"Got dressed for the day, then remembered it's Saturday. Oops. #WeekendVibes #TeenStruggles",Indifference,#WeekendOops,#TeenFashion,20,40,565,25-05-23,19:00:00
+567,Survived a group project without any drama. Miracles do happen. #GroupProjectSuccess #TeenAchievements,Satisfaction,#TeenSuccess,#ProjectMiracle,28,55,566,26-05-23,14:20:00
+568,"Entered the kitchen with the intention to cook. Left with a bag of chips. Cooking is overrated, anyway. #MasterChefInTraining #TeenHumor",Disgust,#TeenChef,#CookingFail,22,45,567,27-05-23,21:15:00
+569,"Staring at the clock in class, waiting for the bell to ring like it's the most exciting event of the day. #ClassCountdown #TeenLife",Surprise,#ClassEvent,#TeenExcitement,18,35,568,28-05-23,12:00:00
+570,"Discovered a new book series and spent the whole night reading. Who needs sleep, anyway? #BookwormLife #LateNightReading",Joy,#BookDiscoveries,#TeenReading,30,60,569,29-05-23,23:30:00
+571,"Bought a new video game, played for hours, forgot to eat. The ultimate gaming session. #GamerLife #NoFoodGaming",Excitement,#GameOn,#TeenGamer,22,45,570,30-05-23,20:45:00
+572,Spent the day binge-watching a new series. Productivity level: Zero. #LazyDay #TVSeriesMarathon,Joy,#BingeWatchDay,#TeenLife,35,70,571,31-05-23,15:30:00
+573,Caught up on the latest fashion trends and now planning a shopping spree. #Fashionista #TrendyTeen,Excitement,#FashionGoals,#TeenStyle,20,40,572,01-06-23,18:00:00
+574,Decided to learn a new instrument. Day one: Still trying to figure out how to hold it. #MusicNovice #LearningJourney,Frustration,#InstrumentLearning,#TeenMusic,28,55,573,02-06-23,14:30:00
+575,Spent hours creating the perfect playlist for every mood. Music is my therapy. #PlaylistMaker #TeenMusicLover,Joy,#MusicTherapy,#TeenPlaylist,22,45,574,03-06-23,21:15:00
+576,Successfully cooked a gourmet meal for the family. Chef skills unlocked! #ChefMode #TeenChef,Pride,#CookingSuccess,#TeenCook,25,50,575,04-06-23,19:30:00
+577,Spontaneously booked a weekend getaway. Adventure awaits! #TravelBug #WeekendEscape,Excitement,#GetawayGoals,#TeenTravel,18,35,576,05-06-23,10:00:00
+578,Attended a concert and danced the night away. Music is the heartbeat of life. #ConcertVibes #DanceAllNight,Joy,#MusicMagic,#TeenConcert,28,55,358,06-06-23,22:30:00
+579,Rediscovered childhood cartoons and had a nostalgia-filled marathon. #CartoonNostalgia #TeenMemories,Joy,#ChildhoodMemories,#TeenCartoons,22,45,578,07-06-23,12:45:00
+580,Embarked on a DIY home decor project. Let's hope it turns out better than last time. #DIYAdventure #TeenHomeDecor,Excitement,#DIYGoals,#TeenCreative,35,70,579,08-06-23,16:00:00
+581,"Spent the afternoon at a museum, pretending to be cultured. Art enthusiast in the making. #MuseumDay #TeenArtLover",Curiosity,#CulturalDay,#TeenCuriosity,20,40,580,09-06-23,14:00:00
+582,Started a blog about random thoughts and musings. Blogging is the new diary. #BloggerLife #TeenBlogger,Curiosity,#BloggingJourney,#TeenThoughts,30,60,581,10-06-23,17:30:00
+583,Relishing a peaceful afternoon with a classic novel. Quiet moments are the best moments. #BookLover #PeacefulAfternoon,Contentment,#QuietMoments,#BookishEscape,35,70,582,11-06-23,15:30:00
+584,"Reflecting on a lifetime of memories, each wrinkle tells a story. Embracing the beauty of aging. #LifeReflections #BeautyInAging",Gratitude,#AgingGracefully,#Memories,28,55,583,12-06-23,18:00:00
+585,Exploring the world of digital art. It's never too late to discover new passions. #DigitalArtistry #LateBloomer,Curiosity,#ArtDiscovery,#SeniorArtist,22,45,584,13-06-23,14:45:00
+586,Savoring the flavors of a home-cooked meal. Simple joys are the heart of happiness. #HomeCooking #SimpleJoys,Contentment,#HappinessInFood,#SeniorLife,25,50,585,14-06-23,19:30:00
+587,Embarking on a journey of learning a new language. The mind stays young with every new word. #LanguageLearning #NeverTooLate,Curiosity,#MindEnrichment,#SeniorLearning,30,60,586,15-06-23,12:15:00
+588,"Attended a classical music concert, feeling the timeless melodies resonate. Music transcends generations. #ClassicalMusic #TimelessMelodies",Joy,#MusicLover,#SeniorConcert,18,35,587,16-06-23,21:45:00
+589,Capturing the beauty of nature through photography. Every snapshot is a treasure. #NaturePhotography #SeniorPhotographer,Joy,#NatureCapture,#SeniorMoments,35,70,588,17-06-23,15:00:00
+590,"Reconnecting with old friends over a cup of tea. Friendship, the true essence of companionship. #OldFriends #Companionship",Contentment,#FriendshipGoals,#SeniorBonding,28,55,589,18-06-23,11:30:00
+591,"Embarked on a road trip to revisit cherished places from the past. Nostalgia, the ultimate travel companion. #RoadTrip #NostalgiaTour",Joy,#CherishedPlaces,#SeniorTravel,22,45,590,19-06-23,16:30:00
+592,"Joined a community choir, harmonizing with fellow voices. Music creates bonds that withstand time. #CommunityChoir #HarmonyInAging",Joy,#MusicHarmony,#SeniorVoices,20,40,591,20-06-23,14:20:00
+593,"Exploring the art of meditation, finding tranquility in the stillness of the mind. #MeditationJourney #TranquilMind",Contentment,#MindfulLiving,#SeniorCalm,18,35,592,21-06-23,19:00:00
+594,"Taking a stroll in the garden, appreciating the beauty of blooming flowers. Nature's wonders never cease. #GardenWalk #FloralBeauty",Contentment,#NatureWonders,#SeniorGarden,25,50,337,22-06-23,13:45:00
+595,"Sipping on a favorite vintage wine, each sip telling a story of the years gone by. Cheers to a life well-lived. #WineLover #VintageCheers",Contentment,#LifeWellLived,#SeniorWine,28,55,594,23-06-23,18:45:00
+596,"Participated in a community art class, unleashing creativity in the golden years. Art has no age limit. #ArtClass #SeniorArtistry",Joy,#CreativityAtAnyAge,#SeniorCreativity,22,45,595,24-06-23,16:15:00
+597,"Embarking on a journey of writing a memoir, documenting a lifetime of experiences. Every story matters. #MemoirWriting #SeniorStories",Gratitude,#LifetimeExperiences,#SeniorMemoir,35,70,596,25-06-23,20:30:00
+598,"Attended a lecture on history, always fascinated by the lessons from the past. Learning is a lifelong adventure. #HistoryLecture #SeniorLearning",Curiosity,#LifetimeAdventure,#SeniorCuriosity,30,60,597,26-06-23,14:00:00
+599,"Rediscovered the joy of cooking traditional family recipes. The kitchen, a place of cherished memories. #FamilyRecipes #SeniorCooking",Contentment,#KitchenMemories,#SeniorCulinary,20,40,598,27-06-23,17:45:00
+600,"Joined a nature photography club, capturing the beauty of the great outdoors. Every click is a connection to nature. #NaturePhotography #SeniorPhotographer",Joy,#OutdoorBeauty,#SeniorClicks,18,35,599,28-06-23,22:15:00
+601,"Attended a jazz concert and swayed to the rhythm of timeless tunes. Music, a constant companion in the golden years. #JazzConcert #SeniorMusic",Joy,#TimelessTunes,#SeniorJazz,25,50,600,29-06-23,16:30:00
+602,"Joined a writing group, penning down thoughts and reflections. Writing, a journey into the depths of the soul. #WritingGroup #SeniorWriter",Gratitude,#SoulfulWriting,#SeniorReflections,28,55,601,30-06-23,19:30:00
+603,"Embarked on a solo travel adventure, discovering the beauty of new places at my own pace. #SoloTravel #SeniorExplorer",Excitement,#DiscoverNewPlaces,#SeniorTravel,30,60,602,01-07-23,14:00:00
+604,"Attended a vintage car show, reminiscing about the classics that once ruled the roads. Nostalgia in every rev. #VintageCars #ClassicRides",Joy,#RoadTripDownMemoryLane,#SeniorCars,22,45,603,02-07-23,18:30:00
+605,"Started a community garden, growing not just plants but friendships too. Green thumbs unite! #CommunityGarden #SeniorGardener",Joy,#GardenFriends,#SeniorGreenThumb,28,55,604,03-07-23,12:45:00
+606,"Hosted a family dinner, where laughter echoed louder than the clinking of utensils. Family, the heart of happiness. #FamilyDinner #SeniorHost",Contentment,#HeartwarmingMoments,#SeniorFamily,35,70,605,04-07-23,17:00:00
+607,"Enrolled in a dance class for seniors, moving to the rhythm of life. Age is just a number on the dance floor. #DanceClass #SeniorDancer",Joy,#DanceLife,#SeniorMoves,18,35,606,05-07-23,20:15:00
+608,"Visited an art gallery, appreciating the brushstrokes that tell tales of creativity. Art, an eternal companion. #ArtGallery #SeniorArtLover",Joy,#CreativeExpressions,#SeniorArt,25,50,607,06-07-23,14:30:00
+609,"Started a book club for seniors, where discussions are as lively as the characters in the novels. #BookClub #SeniorReaders",Joy,#BookishTalks,#SeniorBookworms,22,45,608,07-07-23,19:45:00
+610,"Hosted a picnic in the park, basking in the warmth of friendship and sunshine. Simple joys, timeless memories. #ParkPicnic #SeniorJoy",Contentment,#FriendshipSunshine,#SeniorMemories,30,60,609,08-07-23,16:00:00
+611,"Participated in a local theater production, proving that the stage belongs to every age. #TheaterProduction #SeniorActor",Joy,#StagePassion,#SeniorTheater,20,40,610,09-07-23,22:30:00
+612,"Embarked on a hiking adventure, conquering trails and relishing the beauty of nature. Age is just a number on the mountaintop. #HikingAdventure #SeniorHiker",Excitement,#NatureTrailBlazer,#SeniorExplorer,28,55,611,10-07-23,14:20:00
+613,Hosted a photography exhibition featuring snapshots of a life well-lived. Every photo has a story to tell. #PhotographyExhibition #SeniorPhotographer,Gratitude,#LifeInPictures,#SeniorExhibition,22,45,612,11-07-23,18:45:00
+614,"Joined a seniors' cycling club, feeling the wind in my hair and the freedom of the open road. #CyclingClub #SeniorCyclist",Excitement,#OpenRoadAdventures,#SeniorCycling,25,50,613,12-07-23,13:45:00
+615,"Attended a wine tasting event, savoring the richness of flavors that age like fine wine. Cheers to the golden years! #WineTasting #SeniorWineLover",Joy,#AgedToPerfection,#SeniorCheers,35,70,614,13-07-23,20:00:00
+616,"Started learning ballroom dancing, gliding gracefully across the dance floor. Ageless elegance in every step. #BallroomDancing #SeniorDancer",Joy,#GracefulMoves,#SeniorDance,20,40,615,14-07-23,16:15:00
+617,"Organized a community painting event, turning blank canvases into a masterpiece of shared creativity. #PaintingEvent #SeniorArtist",Joy,#CommunityArt,#SeniorCreativity,28,55,616,15-07-23,19:30:00
+618,"Hosted a 'memory lane' evening with old friends, reminiscing about the adventures that shaped our lives. #MemoryLane #SeniorReminiscing",Gratitude,#FriendshipAdventures,#SeniorNostalgia,30,60,617,16-07-23,14:00:00
+619,"Joined a seniors' astronomy club, stargazing and finding wonder in the vastness of the cosmos. #AstronomyClub #SeniorStargazer",Curiosity,#CelestialWonders,#SeniorAstronomy,18,35,618,17-07-23,22:15:00
+620,"Attended a local jazz festival, tapping toes to the tunes that have stood the test of time. Music, a lifelong love affair. #JazzFestival #SeniorMusicLover",Joy,#TimelessTunes,#SeniorJazz,25,50,619,18-07-23,16:30:00
+621,"Started a blog sharing the wisdom gained through the years, proving that every day is a chance to learn and grow. #SeniorWisdom #Blog",Gratitude,#LifeLessons,#SeniorBlog,22,45,620,19-07-23,19:45:00
+622,"Participated in a charity run, proving that age is no barrier to supporting meaningful causes. #CharityRun #SeniorRunner",Excitement,#RunForACause,#SeniorSupport,30,60,621,20-07-23,17:00:00
+623,"Survived a challenging physics exam. Equations, you won't defeat me!",Relief,#PhysicsSurvivor,#HighSchoolAdventures,20,40,622,01-08-23,13:30:00
+624,Exploring the world of coding. Debugging is an adventure on its own! #CodingJourney #HighSchoolCoder,Excitement,#CodingAdventure,#HighSchoolCoderLife,25,50,623,02-08-23,14:45:00
+625,"Joined the school debate team. Words are my weapons, and I'm ready for battle!",Excitement,#DebateWarrior,#HighSchoolDebater,18,35,624,03-08-23,12:15:00
+626,"Started a photography club at school. Capturing moments, one snapshot at a time!",Joy,#PhotographyClub,#HighSchoolPhotographer,22,45,625,04-08-23,16:30:00
+627,"Daydreaming about the upcoming prom. The dress, the dance ??? it's a fairytale in the making!",Excitement,#PromDreams,#HighSchoolFairytale,30,60,626,05-08-23,19:45:00
+628,Convinced the teacher to have class outdoors. Learning equations with a side of fresh air!,Positive,#OutdoorClassroom,#HighSchoolExplorer,28,55,627,06-08-23,14:00:00
+629,"Accidentally spilled paint in art class. Abstract art, right? #ArtClassAdventures #HighSchoolArtist",Embarrassed,#ArtisticMishaps,#HighSchoolArt,22,45,628,07-08-23,19:45:00
+630,Trying to master the perfect kickflip on my skateboard. Skating into the weekend like a pro!,Excitement,#SkaterLife,#HighSchoolSkater,30,60,629,08-08-23,16:00:00
+631,Bonding with friends over the latest K-pop sensation. Fangirling at its finest!,Joy,#KpopFangirl,#HighSchoolMusic,20,40,630,09-08-23,22:30:00
+632,Spent hours perfecting a chemistry experiment. Mixing potions like a wizard!,Joy,#ChemistryWizard,#HighSchoolScientist,28,55,631,10-08-23,14:20:00
+633,Successfully organized a surprise birthday party for a friend. Party planning expert mode: Achieved!,Joy,#BirthdayParty,#HighSchoolCelebration,22,45,632,11-08-23,18:45:00
+634,"Joined the drama club to unleash my inner actor. Lights, camera, action!",Excitement,#DramaClubStar,#HighSchoolActor,25,50,633,12-08-23,13:45:00
+635,Got my hands on the latest fantasy novel. Diving into realms of magic and adventure!,Excitement,#FantasyBookNerd,#HighSchoolReader,35,70,634,13-08-23,20:00:00
+636,Mastering the art of the perfect doodle during boring classes. Doodles: A+!,Joy,#DoodleMaster,#HighSchoolArt,20,40,635,14-08-23,16:15:00
+637,Attempting to break the school record for the longest handstand. Wish me luck!,Excitement,#HandstandChallenge,#HighSchoolAthlete,28,55,636,15-08-23,19:30:00
+638,Sneaking snacks into class like a pro. The art of snack-smuggling is a sacred skill!,Mischievous,#SnackSmuggler,#HighSchoolSnacks,30,60,637,16-08-23,14:00:00
+639,Hosting a sleepover with friends this weekend. Preparing for a night of laughter and memories!,Excitement,#SleepoverFun,#HighSchoolMemories,18,35,638,17-08-23,22:15:00
+640,"Spent hours on a TikTok dance, only to realize I have two left feet. Dance fail: Unleashed!",Embarrassed,#DanceFail,#HighSchoolTikTok,25,50,639,18-08-23,16:30:00
+641,Accidentally liked my crush's old photo while stalking their profile. Awkward level: Maximum!,Embarrassed,#SocialMediaBlunder,#HighSchoolAwkward,22,45,640,19-08-23,19:45:00
+642,Tried to impress my crush with a smooth conversation. Ended up spilling my drink. Smooth level: Nonexistent!,Embarrassed,#CrushFail,#HighSchoolEmbarrassment,30,60,641,20-08-23,17:00:00
+643,Mastered the art of creating paper airplanes during lecture. Paper planes: Soaring to new heights!,Joy,#PaperPlaneExpert,#HighSchoolArt,15,30,642,21-08-23,15:45:00
+644,Trying to set a new trend by juggling textbooks between classes. Academic juggling: A unique skill!,Excitement,#TextbookJuggling,#HighSchoolSkills,22,40,643,22-08-23,12:30:00
+645,Hiding a snack stash in my backpack for emergency cravings. Snack ninja mode: Activated!,Mischievous,#SnackNinja,#HighSchoolSnacks,28,55,644,23-08-23,16:45:00
+646,Planning a surprise scavenger hunt for friends. Anticipating the thrill and excitement!,Excitement,#SurpriseAdventure,#HighSchoolFun,20,38,645,24-08-23,18:20:00
+647,Danced in the rain to celebrate the end of exams. Rain dance: Unexpectedly refreshing!,Joy,#RainDance,#HighSchoolJoy,25,50,646,25-08-23,14:15:00
+648,Accidentally sent a text meant for a friend to the class group chat. Texting fail: Oops moment!,Embarrassed,#TextingFail,#HighSchoolAwkward,18,35,647,26-08-23,17:30:00
+649,Tried a magic trick to impress classmates. Magic fail: Where did that rabbit go?,Embarrassed,#MagicFail,#HighSchoolMagic,22,45,648,27-08-23,20:45:00
+650,Perfecting the art of creating origami during a dull lecture. Origami mastery: A+!,Joy,#OrigamiMaster,#HighSchoolArt,18,36,649,28-08-23,16:00:00
+651,Attempting to set a new record for the most consecutive hacky sack kicks. Hacky sack skills: Unleashed!,Excitement,#HackySackChallenge,#HighSchoolAthlete,26,48,650,29-08-23,13:45:00
+652,Creating a secret handshake with friends. Friendship level: Expert!,Joy,#FriendshipGoals,#HighSchoolMemories,20,40,651,30-08-23,17:30:00
+653,Embarking on a mission to find the best burger joint in town. Burger connoisseur: Reporting for duty!,Excitement,#BurgerQuest,#HighSchoolFoodie,24,42,652,31-08-23,20:15:00
+654,Practicing a stand-up comedy routine for the upcoming talent show. Comedy gig: In the making!,Joy,#StandUpComedy,#HighSchoolTalent,21,39,653,01-09-23,14:45:00
+655,Accidentally sent a love letter to the wrong person. Love note fail: Maximum embarrassment!,Embarrassed,#LoveLetterFail,#HighSchoolAwkward,17,33,654,02-09-23,18:30:00
+656,Attempting to impress the teacher with an elaborate science experiment. Science geek mode: Activated!,Excitement,#ScienceGeek,#HighSchoolExperiments,23,44,655,03-09-23,22:00:00
+657,Crafting intricate friendship bracelets for the whole squad. Friendship level: Expert weaver!,Joy,#FriendshipBracelets,#HighSchoolCrafts,19,37,656,04-09-23,15:15:00
+658,Attempting to beat the record for the most consecutive cartwheels. Cartwheel challenge: Underway!,Excitement,#CartwheelChallenge,#HighSchoolAthlete,27,52,657,05-09-23,12:30:00
+659,Organizing a movie marathon with friends. Popcorn and cinematic adventures await!,Joy,#MovieNight,#HighSchoolMemories,22,43,658,06-09-23,16:45:00
+660,Experimenting with a new hair color. A bold change for a bold semester!,Excitement,#HairExperiment,#HighSchoolStyle,20,39,659,07-09-23,18:20:00
+661,Building a time capsule to capture memories for the future. Time-traveling emotions!,Joy,#TimeCapsule,#HighSchoolNostalgia,26,48,660,08-09-23,14:15:00
+662,Accidentally walked into the wrong classroom on the first day. Classroom mix-up: Awkward start!,Embarrassed,#FirstDayOops,#HighSchoolEmbarrassment,16,32,661,09-09-23,17:30:00
+663,Trying out a new smoothie recipe for a healthy start to the week. Smoothie enthusiast: Level up!,Excitement,#HealthyLiving,#HighSchoolWellness,23,42,662,10-09-23,20:45:00
+664,Reflecting on the challenges of the school year. Feeling a bit overwhelmed with assignments.,Sad,#SchoolChallenges,#HighSchoolStruggles,15,28,663,11-09-23,15:45:00
+665,Encountered some mean-spirited comments online. Dealing with online hate is never easy.,Hate,#OnlineHate,#HighSchoolReality,18,36,664,12-09-23,12:30:00
+666,Had a bad day at school. Everything seems to be going wrong.,Bad,#BadDay,#HighSchoolBlues,20,40,665,13-09-23,16:45:00
+667,Feeling down after not making the sports team. Disappointment lingers.,Sad,#Disappointment,#HighSchoolSports,17,34,666,14-09-23,18:20:00
+668,Witnessed a heated argument in the cafeteria. Unpleasant atmosphere at lunch.,Hate,#CafeteriaDrama,#HighSchoolTension,21,41,667,15-09-23,14:15:00
+669,Received a not-so-great grade on a major project. Academic frustration setting in.,Bad,#AcademicFrustration,#HighSchoolStress,19,38,668,16-09-23,17:30:00
+670,Dealing with a personal setback. Sometimes life throws unexpected challenges.,Sad,#LifeChallenges,#HighSchoolStruggles,22,44,669,17-09-23,20:45:00
+671,Feeling lonely on a Saturday night. Sometimes solitude hits harder than expected.,Sad,#LonelyNights,#HighSchoolEmotions,16,31,670,18-09-23,22:00:00
+672,Experiencing cyberbullying. Hateful messages online are disheartening.,Hate,#StopCyberbullying,#HighSchoolReality,14,27,671,19-09-23,15:15:00
+673,Caught in a torrential rainstorm without an umbrella. Today's weather is just bad luck.,Bad,#BadLuck,#HighSchoolWeather,18,35,672,20-09-23,12:30:00
+674,Missing an important event due to unforeseen circumstances. A day filled with sadness.,Sad,#MissedChances,#HighSchoolRegret,20,39,673,21-09-23,16:45:00
+675,Dealing with unfounded rumors circulating about personal life. Rumors can be hurtful.,Hate,#RumorMills,#HighSchoolDrama,23,46,674,22-09-23,18:20:00
+676,Got a flat tire on the way to an important meeting. Talk about a series of bad events!,Bad,#BadLuckDay,#HighSchoolStruggles,25,50,675,23-09-23,14:15:00
+677,Feeling a sense of emptiness after a close friend moves away. Farewells are always sad.,Sad,#SayingGoodbye,#HighSchoolEmotions,21,42,676,24-09-23,17:30:00
+678,Facing rejection from a dream college. Disheartened but determined to explore other paths.,Sad,#CollegeDreams,#HighSchoolJourney,19,37,677,25-09-23,20:45:00
+679,Encountering online toxicity during a gaming session. Hateful comments can ruin the fun.,Hate,#OnlineGaming,#HighSchoolGamer,16,32,678,26-09-23,14:15:00
+680,Having a bad hair day and feeling self-conscious. Bad hair days can affect confidence.,Bad,#BadHairDay,#HighSchoolConfidence,18,36,679,27-09-23,17:30:00
+681,Feeling a sense of despair after a major project failure. Hard work didn't pay off this time.,Sad,#ProjectStruggles,#HighSchoolHardships,21,41,680,28-09-23,22:00:00
+682,Experiencing hate comments for expressing personal opinions. Online negativity prevails.,Hate,#OnlineOpinions,#HighSchoolCriticism,24,48,681,29-09-23,15:45:00
+683,Having a string of bad luck with constant technology malfunctions. Tech troubles galore!,Bad,#TechIssues,#HighSchoolTech,22,43,682,30-09-23,18:20:00
+684,Missing out on a long-anticipated event due to unexpected circumstances. A day filled with sadness.,Sad,#MissedMoments,#HighSchoolRegret,20,39,683,01-10-23,14:15:00
+685,Trying out a new study technique for upcoming exams. Exploring different learning strategies.,Neutral,#StudyStrategies,#HighSchoolExams,23,42,684,02-10-23,16:45:00
+686,Organizing a community cleanup event for a cleaner neighborhood. Promoting environmental awareness.,Neutral,#EnvironmentalEfforts,#HighSchoolCommunity,26,50,685,03-10-23,12:30:00
+687,Sharing favorite book recommendations with classmates. Building a mini book club.,Neutral,#BookClub,#HighSchoolReads,19,38,686,04-10-23,18:20:00
+688,Experimenting with a new recipe for a school bake sale. Baking adventures in the kitchen.,Neutral,#BakingAdventures,#HighSchoolBakes,21,43,687,05-10-23,14:15:00
+689,Collaborating on a school project with peers. Teamwork makes the dream work.,Neutral,#Teamwork,#HighSchoolProjects,18,36,688,06-10-23,17:30:00
+690,Attending a school club meeting to explore new interests. Dabbling in extracurricular activities.,Neutral,#SchoolClubs,#HighSchoolInterests,22,45,689,07-10-23,20:45:00
+691,Exploring a new part-time job opportunity for gaining work experience. Career development in progress.,Neutral,#CareerDevelopment,#HighSchoolJobs,24,48,690,08-10-23,15:15:00
+692,Attending a school assembly to stay informed about upcoming events and announcements. Staying connected with school activities.,Neutral,#SchoolEvents,#HighSchoolConnectivity,20,40,691,09-10-23,22:00:00
+693,Exploring a new hobby of photography during free time. Capturing moments through a lens.,Neutral,#PhotographyJourney,#HighSchoolHobbies,25,49,692,10-10-23,14:15:00
+694,Participating in a science fair to showcase a unique experiment. Sharing knowledge with peers.,Neutral,#ScienceFair,#HighSchoolScience,19,37,693,11-10-23,16:45:00
+695,Attending a workshop on time management to enhance organizational skills. Striving for efficiency.,Neutral,#EfficiencyGoals,#HighSchoolSkills,23,44,694,12-10-23,18:20:00
+696,Volunteering at a local charity event to give back to the community. Contributing to social causes.,Neutral,#CommunityService,#HighSchoolVolunteer,20,39,695,13-10-23,12:30:00
+697,Collaborating on a group project to promote teamwork and shared responsibilities. Group effort in action.,Neutral,#TeamSpirit,#HighSchoolProjects,18,35,696,14-10-23,17:30:00
+698,Participating in a debate club to enhance critical thinking and communication skills. Intellectual engagement in progress.,Neutral,#DebateSkills,#HighSchoolIntellect,22,43,697,15-10-23,20:45:00
+699,Celebrating a friend's birthday with a surprise party. Joyful moments and laughter all around!,Happy,#SurpriseParty,#HighSchoolCelebration,27,52,698,16-10-23,15:45:00
+700,Successfully completing a challenging coding project. Excitement for overcoming coding hurdles!,Happy,#CodingTriumph,#HighSchoolTech,24,48,699,17-10-23,12:30:00
+701,Attending a school talent show to support classmates. Applauding the diverse talents on display!,Happy,#TalentShow,#HighSchoolEntertainment,19,38,700,18-10-23,16:45:00
+702,"Exploring a new hiking trail with friends over the weekend. Nature, laughter, and good vibes!",Happy,#NatureAdventures,#HighSchoolFriends,21,42,701,19-10-23,18:20:00
+703,Winning a friendly sports competition against rival schools. Victory celebrations in full swing!,Happy,#SportsTriumph,#HighSchoolAthletics,26,50,702,20-10-23,14:15:00
+704,Receiving a heartfelt letter from a pen pal in another country. Connecting across the globe!,Happy,#GlobalFriendship,#HighSchoolCorrespondence,23,45,703,21-10-23,17:30:00
+705,Creating a beautiful mural with fellow art enthusiasts. The power of collaboration and creativity!,Happy,#ArtCollaboration,#HighSchoolCreativity,22,43,704,22-10-23,20:45:00
+706,Participating in a school-wide art exhibition. Witnessing creativity and spreading positive vibes!,Happy,#ArtisticExpression,#HighSchoolCreativity,23,44,705,10-11-15,16:45:00
+707,Achieving a personal best in a track and field competition. The thrill of victory and self-improvement!,Happy,#AthleticAchievement,#HighSchoolSports,26,51,706,14-09-16,12:30:00
+708,Collaborating on a science project that received recognition at a regional fair. Science triumphs and smiles!,Happy,#ScienceFairWinner,#HighSchoolScience,20,39,707,18-08-17,18:20:00
+709,"Attending a surprise birthday party organized by friends. Surrounded by love, laughter, and good company!",Happy,#SurpriseCelebration,#HighSchoolFriendship,25,48,708,22-06-18,14:15:00
+710,Successfully fundraising for a school charity initiative. The joy of giving back to the community!,Happy,#CommunityGiving,#HighSchoolPhilanthropy,22,42,709,05-04-19,17:30:00
+711,"Participating in a multicultural festival, celebrating diversity with music, dance, and delicious food!",Happy,#CulturalCelebration,#HighSchoolUnity,21,43,710,29-02-20,20:45:00
+712,"Organizing a virtual talent show during challenging times, bringing smiles to classmates' faces!",Happy,#VirtualEntertainment,#HighSchoolPositivity,24,47,711,15-11-20,15:15:00
