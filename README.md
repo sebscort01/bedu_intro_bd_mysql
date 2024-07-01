@@ -12,8 +12,8 @@ Obtener información relevante y útil para responder a preguntas tales como :
  - ¿Cómo se encuentran distribuidos los sentimientos por comentario?
  - ¿Cuáles tipos de comentarios/sentimientos generan más reacciones?
  - ¿Como están distribuidos los sentimientos por plataforma? 
-**
-💾 Base De Datos:**
+
+**💾 Base De Datos:**
 
 El conjunto de datos de análisis de sentimientos de las redes sociales captura un tapiz vibrante de emociones, tendencias e interacciones en varias plataformas de redes sociales. Este conjunto de datos proporciona una instantánea del contenido generado por el usuario, que abarca texto, marcas de tiempo, hashtags, países, me gusta y retweets. Cada entrada revela historias únicas: momentos de sorpresa, emoción, admiración, emoción, satisfacción y más, compartidas por personas de todo el mundo
 
